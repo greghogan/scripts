@@ -8,7 +8,7 @@ import os
 import shutil
 import re
 import argparse
-from collections import defaultdic
+from collections import defaultdict
 import time
 
 # --- CONFIGURATION ---
@@ -303,7 +303,7 @@ def build_virtual_tree(files, meta_map, manual_map, ddc_tree, library_root):
             path_stack = resolve_path_stack(ddc_code, ddc_tree)
 
             if path_stack:
-                current_node = roo
+                current_node = root
                 for def_data in path_stack:
                     node_key = def_data.get('id', str(def_data['number']))
 
