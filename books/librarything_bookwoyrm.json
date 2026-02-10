@@ -9190,6 +9190,7 @@
   "Darien Library's Best Books of the Year",
   "Denver Public Library Staff Picks for Adults",
   "Elle Editors' Favorite Books",
+  "Eureka\u2019s Picks for Best Science Books of the Year",
   "Financial Times Books of the Year",
   "Globe and Mail Top 100 Book",
   "Goodreads Choice Awards",
@@ -11038,8 +11039,7 @@
   },
   "series": ["Great Achievements in American History"],
   "originaltitle": "The Wright Brothers",
-  "awards": ["ALA Notable Book",
-  "Amazon's Best Books of the Month",
+  "awards": ["Amazon's Best Books of the Month",
   "Amazon.com Best Books",
   "Booklist Editor's Choice: Adult Books",
   "Chicago Public Library Best of the Best: Adults",
@@ -25394,6 +25394,7 @@
     "code": "TJ461 .R67"
   },
   "awards": ["10 Books Logistics and Supply Chain Experts Need to Read",
+  "Five new books to help you bone up on history",
   "Top 10 Must-Read Books for Supply Chain and Logistics Management"],
   "genre": ["Nonfiction",
   "General Nonfiction",
@@ -39642,6 +39643,1058 @@
   "source": "amazon uk books",
   "workcode": "34915665",
   "entrydate": "2026-01-31",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"306114021": {
+  "books_id": "306114021",
+  "title": "Average Is Over: Powering America Beyond the Age of the Great Stagnation",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Cowen, Tyler",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Cowen, Tyler",
+    "fl": "Tyler Cowen",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0525953736",
+  "isbn": {
+    "0": "0525953736",
+    "2": "9780525953739"
+  },
+  "asin": "0525953736",
+  "ean": ["0525953736"],
+  "publication": "E P Dutton & Co Inc (2013), 290 pages",
+  "date": "2013",
+  "summary": "Average Is Over: Powering America Beyond the Age of the Great Stagnation by Tyler Cowen (2013)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["330.973"],
+    "wording": ["Economic geography and history",
+    "Economics",
+    "Economics",
+    "North America",
+    "Social sciences",
+    "United States"]
+  },
+  "lcc": {
+    "code": "HC106.84 .C69"
+  },
+  "source": "amazon.co.uk",
+  "workcode": "14219496",
+  "entrydate": "2026-02-01",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"306563265": {
+  "books_id": "306563265",
+  "title": "Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship (Strong Ideas)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Schneier, Bruce",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Sanders, Nathan E.",
+  "secondaryauthorroles": "Author",
+  "authors": [{
+    "lf": "Schneier, Bruce",
+    "fl": "Bruce Schneier",
+    "role": "Author"
+  },
+  {
+    "lf": "Sanders, Nathan E.",
+    "fl": "Nathan E. Sanders",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0262049945",
+  "isbn": {
+    "0": "0262049945",
+    "2": "9780262049948"
+  },
+  "asin": "0262049945",
+  "ean": ["0262049945"],
+  "publication": "MIT Press (2025), 160 pages",
+  "date": "2025",
+  "summary": "Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship (Strong Ideas) by Bruce Schneier (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["321.80285"],
+    "wording": ["Democratic government [formerly : Republic]",
+    "Political science",
+    "Social sciences",
+    "Systems of governments and states"]
+  },
+  "lcc": {
+    "code": "JC423 .S356"
+  },
+  "awards": ["BPL Staff Picks: Best Reads of the Year"],
+  "genre": ["Nonfiction",
+  "Politics, Government, Law and Public Policy"],
+  "genre_id": ["20275895",
+  "3805"],
+  "source": "amazon uk books",
+  "workcode": "34787034",
+  "entrydate": "2026-02-07",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"306563328": {
+  "books_id": "306563328",
+  "title": "Boosting: Foundations and Algorithms (Adaptive Computation and Machine Learning Series)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Schapire, Re",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Schapire, Re",
+    "fl": "Re Schapire",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0262017180",
+  "isbn": {
+    "0": "0262017180",
+    "2": "9780262017183"
+  },
+  "asin": "0262017180",
+  "ean": ["0262017180"],
+  "publication": "MIT Press (2012), 496 pages",
+  "date": "2012",
+  "summary": "Boosting: Foundations and Algorithms (Adaptive Computation and Machine Learning Series) by Re Schapire (2012)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["006.3"],
+    "wording": ["Artificial Intelligence",
+    "Computer science, information & general works",
+    "Computer science, knowledge & systems",
+    "Special computer methods (AI, barcoding, VR, web design, social media)"]
+  },
+  "lcc": {
+    "code": "Q325.75 .S33"
+  },
+  "source": "amazon.co.uk",
+  "workcode": "12658164",
+  "entrydate": "2026-02-07",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"306602458": {
+  "books_id": "306602458",
+  "title": "The Long Trail Guide: Hiking Vermont's High Ridge",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Club, Green Mountain",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Hardy, Dave|Larose, Steve|Rose, Ben",
+  "secondaryauthorroles": "Editor|Editor|Editor",
+  "authors": [{
+    "lf": "Club, Green Mountain",
+    "fl": "Green Mountain Club",
+    "role": "Author"
+  },
+  {
+    "lf": "Hardy, Dave",
+    "fl": "Dave Hardy",
+    "role": "Editor"
+  },
+  {
+    "lf": "Larose, Steve",
+    "fl": "Steve Larose",
+    "role": "Editor"
+  },
+  {
+    "lf": "Rose, Ben",
+    "fl": "Ben Rose",
+    "role": "Editor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "188802108X",
+  "isbn": {
+    "0": "188802108X",
+    "2": "9781888021080"
+  },
+  "asin": "188802108X",
+  "ean": ["188802108X"],
+  "publication": "Green Mountain Club (2003), Edition: 25, 256 pages",
+  "date": "2003",
+  "summary": "The Long Trail Guide: Hiking Vermont's High Ridge by Green Mountain Club (2003)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["910"],
+    "wording": ["Geography & travel",
+    "History & geography",
+    "modified standard subdivisions of Geography and travel"]
+  },
+  "lcc": {
+    "code": "GV199.42 .V4 .L6"
+  },
+  "source": "Amazon.com",
+  "workcode": "183572",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"306602807": {
+  "books_id": "306602807",
+  "title": "Beyond Backpacking: Ray Jardine's Guide to Lightweight Hiking",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Jardine, Ray",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Jardine, Ray",
+    "fl": "Ray Jardine",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0963235931",
+  "isbn": {
+    "0": "0963235931",
+    "2": "9780963235930"
+  },
+  "asin": "0963235931",
+  "ean": ["0963235931"],
+  "publication": "AdventureLore Press,U.S. (1999), Edition: 3rd illustrated edition, 512 pages",
+  "date": "1999",
+  "summary": "Beyond Backpacking: Ray Jardine's Guide to Lightweight Hiking by Ray Jardine (1999)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["796.51"],
+    "wording": ["Arts & recreation",
+    "Athletic and outdoor sports and games",
+    "Outdoor leisure",
+    "Recreation, sports, and performing arts",
+    "Walking; backpacking, hiking"]
+  },
+  "lcc": {
+    "code": "GV199.6 .J38"
+  },
+  "subject": [["Backpacking",
+  "Handbooks, manuals, etc"],
+  ["Hiking",
+  "Handbooks, manuals, etc"]],
+  "source": "amazon.co.uk",
+  "workcode": "427671",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "504 p.; 8.97 inches",
+  "height": "8.97 inches",
+  "thickness": "1.02 inches",
+  "length": "6.07 inches",
+  "dimensions": "8.97 x 6.07 x 1.02  inches",
+  "weight": "1.51 pounds",
+  "pages": "504 "
+},
+"306602970": {
+  "books_id": "306602970",
+  "title": "Pacific Crest Trail Hiker's Handbook: Innovative Techniques and Trail Tested Instruction for the Long Distance Hiker",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Jardine, Ray",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Jardine, Ray",
+    "fl": "Ray Jardine",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0963235923",
+  "isbn": {
+    "0": "0963235923",
+    "2": "9780963235923"
+  },
+  "asin": "0963235923",
+  "ean": ["0963235923"],
+  "publication": "AdventureLore Press (1996), Edition: 2nd, 376 pages",
+  "date": "1996",
+  "summary": "Pacific Crest Trail Hiker's Handbook: Innovative Techniques and Trail Tested Instruction for the Long Distance Hiker by Ray Jardine (1996)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["796.51"],
+    "wording": ["Arts & recreation",
+    "Athletic and outdoor sports and games",
+    "Outdoor leisure",
+    "Recreation, sports, and performing arts",
+    "Walking; backpacking, hiking"]
+  },
+  "lcc": {
+    "code": "GV199.62 .J37"
+  },
+  "source": "Amazon.com",
+  "workcode": "326823",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"306602987": {
+  "books_id": "306602987",
+  "title": "Trail Life: Ray Jardine's Lightweight Backpacking",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Jardine, Ray",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Jardine, Ray",
+    "fl": "Ray Jardine",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0963235974",
+  "isbn": {
+    "0": "0963235974",
+    "2": "9780963235978"
+  },
+  "asin": "0963235974",
+  "ean": ["0963235974"],
+  "publication": "AdventureLore Press,U.S. (2009), 400 pages",
+  "date": "2009",
+  "summary": "Trail Life: Ray Jardine's Lightweight Backpacking by Ray Jardine (2009)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["796"],
+    "wording": ["Arts & recreation",
+    "Athletic and outdoor sports and games",
+    "Recreation, sports, and performing arts"]
+  },
+  "lcc": {
+    "code": "GV199.6 .J371"
+  },
+  "source": "amazon.co.uk",
+  "workcode": "8342194",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "399 p.; 8.74 inches",
+  "height": "8.74 inches",
+  "thickness": "0.87 inches",
+  "length": "8.5 inches",
+  "dimensions": "8.74 x 8.5 x 0.87  inches",
+  "weight": "2.29 pounds",
+  "pages": "399 "
+},
+"306603127": {
+  "books_id": "306603127",
+  "title": "The Ig Nobel Prizes: The Annals of Improbable Research",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Abrahams, Marc",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Abrahams, Marc",
+    "fl": "Marc Abrahams",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0525947531",
+  "isbn": {
+    "0": "0525947531",
+    "2": "9780525947530"
+  },
+  "asin": "0525947531",
+  "ean": ["0525947531"],
+  "publication": "Dutton Books (2003), Edition: First Printing, 240 pages",
+  "date": "2003",
+  "summary": "The Ig Nobel Prizes: The Annals of Improbable Research by Marc Abrahams (2003)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["502.07"],
+    "wording": ["Miscellany",
+    "Natural sciences & mathematics",
+    "Science"]
+  },
+  "lcc": {
+    "code": "Q173 .A18"
+  },
+  "subject": {
+    "0": ["American wit and humor"],
+    "2": ["Research",
+    "Miscellanea"],
+    "4": ["Science",
+    "Awards",
+    "Miscellanea"],
+    "6": ["Science",
+    "Miscellanea"]
+  },
+  "series": ["The Ig Nobel Prizes"],
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "Science & Nature"],
+  "genre_id": ["20275895",
+  "1247",
+  "1457"],
+  "source": "amazon.co.uk",
+  "workcode": "91225",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "240 p.; 7.4 inches",
+  "height": "7.4 inches",
+  "thickness": "0.8 inches",
+  "length": "5.3 inches",
+  "dimensions": "7.4 x 5.3 x 0.8  inches",
+  "weight": "0.7 pounds",
+  "pages": "240 "
+},
+"306603176": {
+  "books_id": "306603176",
+  "title": "The Ig Nobel Prizes 2: An All-New Collection of the World's Unlikeliest Research",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Abrahams, Marc",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Abrahams, Marc",
+    "fl": "Marc Abrahams",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0525949127",
+  "isbn": {
+    "0": "0525949127",
+    "2": "9780525949121"
+  },
+  "asin": "0525949127",
+  "ean": ["0525949127"],
+  "publication": "Dutton Books (2005), Edition: First American Printing, 261 pages",
+  "date": "2005",
+  "summary": "The Ig Nobel Prizes 2: An All-New Collection of the World's Unlikeliest Research by Marc Abrahams (2005)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["502.07"],
+    "wording": ["Miscellany",
+    "Natural sciences & mathematics",
+    "Science"]
+  },
+  "lcc": {
+    "code": "Q173 .A182"
+  },
+  "subject": [["Science",
+  "Awards",
+  "Miscellanea"]],
+  "series": ["The Ig Nobel Prizes"],
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "Science & Nature"],
+  "genre_id": ["20275895",
+  "1247",
+  "1457"],
+  "source": "amazon.co.uk",
+  "workcode": "1575447",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "272 p.; 7.2 inches",
+  "height": "7.2 inches",
+  "thickness": "1 inch",
+  "length": "5.3 inches",
+  "dimensions": "7.2 x 5.3 x 1  inches",
+  "weight": "0.75 pounds",
+  "pages": "272 "
+},
+"306612735": {
+  "books_id": "306612735",
+  "title": "Augustus: First Emperor of Rome",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Goldsworthy, Adrian",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Goldsworthy, Adrian",
+    "fl": "Adrian Goldsworthy",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0300178727",
+  "isbn": {
+    "0": "0300178727",
+    "2": "9780300178722"
+  },
+  "asin": "0300178727",
+  "ean": ["0300178727"],
+  "publication": "Yale University Press (2014), 598 pages",
+  "date": "2014",
+  "summary": "Augustus: First Emperor of Rome by Adrian Goldsworthy (2014)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["937.07092"],
+    "wording": ["Constitutional 31 B.C.-284 A.D.",
+    "History & geography",
+    "History of ancient world (to ca. 499)",
+    "Italian Peninsula to 476 and adjacent territories to 476"]
+  },
+  "lcc": {
+    "code": "DG279 .G65"
+  },
+  "originaltitle": "Augustus: First Emperor of Rome",
+  "awards": ["PROSE Award"],
+  "genre": ["Nonfiction",
+  "Biography & Memoir",
+  "General Nonfiction",
+  "History"],
+  "genre_id": ["20275895",
+  "1240",
+  "1247",
+  "1599"],
+  "source": "amazon.co.uk",
+  "workcode": "15000922",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"306613699": {
+  "books_id": "306613699",
+  "title": "The Big Book of Maker Skills (Popular Science): Tools & Techniques for Building Great Tech Projects",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Hackett, Chris",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Hackett, Chris",
+    "fl": "Chris Hackett",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1616287268",
+  "isbn": {
+    "0": "1616287268",
+    "2": "9781616287269"
+  },
+  "asin": "1616287268",
+  "ean": ["1616287268"],
+  "publication": "Weldon Owen, Incorporated (2014), 208 pages",
+  "date": "2014",
+  "summary": "The Big Book of Maker Skills (Popular Science): Tools & Techniques for Building Great Tech Projects by Chris Hackett (2014)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["621.9"],
+    "wording": ["Applied physics",
+    "Engineering",
+    "Machine-tools",
+    "Technology"]
+  },
+  "lcc": {
+    "code": "TK9965 .H24"
+  },
+  "source": "amazon.co.uk",
+  "workcode": "15466627",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"306614790": {
+  "books_id": "306614790",
+  "title": "1929: The Inside Story of The Greatest Crash in Wall Street History",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Sorkin, Andrew Ross",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Sorkin, Andrew Ross",
+    "fl": "Andrew Ross Sorkin",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "024147941X",
+  "isbn": {
+    "0": "024147941X",
+    "2": "9780241479414"
+  },
+  "asin": "024147941X",
+  "ean": ["024147941X"],
+  "publication": "Allen Lane (2025), 592 pages",
+  "date": "2025",
+  "summary": "1929: The Inside Story of The Greatest Crash in Wall Street History by Andrew Ross Sorkin (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["338.5"],
+    "wording": ["Economics",
+    "Microeconomics",
+    "Production",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "HB3717"
+  },
+  "awards": ["AIR MAIL\u2019s Best Books of the Year",
+  "Amado Mundo: Os melhores livros do ano",
+  "Barnes & Noble Best Books of the Year",
+  "Chicago Public Library Best of the Best: Adults",
+  "Financial Times Books of the Year",
+  "Gotham Book Prize",
+  "J.P. Morgan NextList",
+  "Libby Life: The Best Books of the Year",
+  "The Economist Best Books",
+  "Time Magazine's Must Read Books of the Year"],
+  "genre": ["Nonfiction",
+  "History"],
+  "genre_id": ["20275895",
+  "1599"],
+  "source": "amazon uk books",
+  "workcode": "34477842",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},"306615692": {
+  "books_id": "306615692",
+  "title": "Black Holes: The Key to Understanding the Universe",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Cox, Professor Brian",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Forshaw, Professor Jeff",
+  "secondaryauthorroles": "Author",
+  "authors": [{
+    "lf": "Cox, Professor Brian",
+    "fl": "Professor Brian Cox",
+    "role": "Author"
+  },
+  {
+    "lf": "Forshaw, Professor Jeff",
+    "fl": "Professor Jeff Forshaw",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0008390649",
+  "isbn": {
+    "0": "0008390649",
+    "2": "9780008390648"
+  },
+  "asin": "0008390649",
+  "ean": ["0008390649"],
+  "publication": "William Collins (2023), Edition: 1, 288 pages",
+  "date": "2023",
+  "summary": "Black Holes: The Key to Understanding the Universe by Professor Brian Cox (2023)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["523.8875"],
+    "wording": ["Astronomy",
+    "Black holes",
+    "Natural sciences & mathematics",
+    "Specific celestial bodies and phenomena",
+    "Stars",
+    "Stellar evolution",
+    "Terminal stages"]
+  },
+  "lcc": {
+    "code": "QB843 .B55 .C69"
+  },
+  "source": "amazon uk books",
+  "workcode": "28564193",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"306615796": {
+  "books_id": "306615796",
+  "title": "The Heritage Guide to the Constitution",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Meese, Edwin",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Spalding, Matthew|Forte, David F.",
+  "secondaryauthorroles": "Editor|Editor",
+  "authors": [{
+    "lf": "Meese, Edwin",
+    "fl": "Edwin Meese",
+    "role": "Author"
+  },
+  {
+    "lf": "Spalding, Matthew",
+    "fl": "Matthew Spalding",
+    "role": "Editor"
+  },
+  {
+    "lf": "Forte, David F.",
+    "fl": "David F. Forte",
+    "role": "Editor"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "159698001X",
+  "isbn": {
+    "0": "159698001X",
+    "2": "9781596980013"
+  },
+  "asin": "159698001X",
+  "ean": ["159698001X"],
+  "publication": "Regnery Publishing, Inc. (2005), Edition: First edition., 491 pages",
+  "date": "2005",
+  "summary": "The Heritage Guide to the Constitution by Edwin Meese (2005)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["342.73023"],
+    "wording": ["Basic instruments of Government, the US constitution",
+    "Constitutional and administrative law",
+    "Constitutional law--United States",
+    "Law",
+    "North America",
+    "Social sciences",
+    "Texts of the constitution"]
+  },
+  "lcc": {
+    "code": "KF4527 .H47"
+  },
+  "subject": {
+    "0": ["Constitutional law",
+    "United States"],
+    "2": ["Constitutions",
+    "United States"],
+    "4": ["United States. Constitution"]
+  },
+  "source": "Amazon.com",
+  "workcode": "306658",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "491 p.; 10.1 inches",
+  "height": "10.1 inches",
+  "thickness": "1.5 inches",
+  "length": "7.1 inches",
+  "dimensions": "10.1 x 7.1 x 1.5  inches",
+  "weight": "2.75 pounds",
+  "pages": "491 "
+},
+"306615811": {
+  "books_id": "306615811",
+  "title": "Against the Machine: On the Unmaking of Humanity",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Kingsnorth, Paul",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Kingsnorth, Paul",
+    "fl": "Paul Kingsnorth",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0241788404",
+  "isbn": {
+    "0": "0241788404",
+    "2": "9780241788400"
+  },
+  "asin": "0241788404",
+  "ean": ["0241788404"],
+  "publication": "Particular Books (2025), 368 pages",
+  "date": "2025",
+  "summary": "Against the Machine: On the Unmaking of Humanity by Paul Kingsnorth (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["303.45"],
+    "wording": ["Deterioration and decay",
+    "Social change",
+    "Social processes",
+    "Social sciences",
+    "Social sciences, sociology & anthropology"]
+  },
+  "lcc": {
+    "code": "T14.5 .K564"
+  },
+  "source": "amazon uk books",
+  "workcode": "33822999",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"306615946": {
+  "books_id": "306615946",
+  "title": "Bubbles and Crashes: The Boom and Bust of Technological Innovation",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Goldfarb, Brent",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Kirsch, David A.",
+  "secondaryauthorroles": "Author",
+  "authors": [{
+    "lf": "Goldfarb, Brent",
+    "fl": "Brent Goldfarb",
+    "role": "Author"
+  },
+  {
+    "lf": "Kirsch, David A.",
+    "fl": "David A. Kirsch",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0804793832",
+  "isbn": {
+    "0": "0804793832",
+    "2": "9780804793834"
+  },
+  "asin": "0804793832",
+  "ean": ["0804793832"],
+  "publication": "Stanford University Press (2019), 264 pages",
+  "date": "2019",
+  "summary": "Bubbles and Crashes: The Boom and Bust of Technological Innovation by Brent Goldfarb (2019)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["338.064"],
+    "wording": ["Economics",
+    "Effect Of Innovation",
+    "Efficiency",
+    "Production",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "HC79 .T4 .G65"
+  },
+  "source": "amazon uk books",
+  "workcode": "22689146",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"306616091": {
+  "books_id": "306616091",
+  "title": "Making the Cut: How to Heal Modern Medicine",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Kheriaty, Aaron",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Kheriaty, Aaron",
+    "fl": "Aaron Kheriaty",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1510783520",
+  "isbn": {
+    "0": "1510783520",
+    "2": "9781510783522"
+  },
+  "asin": "1510783520",
+  "ean": ["1510783520"],
+  "publication": "Regnery (2025), 256 pages",
+  "date": "2025",
+  "summary": "Making the Cut: How to Heal Modern Medicine by Aaron Kheriaty (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "lcc": [],
+  "source": "amazon.com books",
+  "workcode": "35686179",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "256 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "0.9 inches",
+  "length": "6 inches",
+  "dimensions": "9 x 6 x 0.9 inches",
+  "weight": "1.04940036712 pounds",
+  "pages": "256 "
+},
+"306616203": {
+  "books_id": "306616203",
+  "title": "Millions, Billions, Zillions: Defending Yourself in a World of Too Many Numbers",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Kernighan, Brian",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Kernighan, Brian",
+    "fl": "Brian Kernighan",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0691182779",
+  "isbn": {
+    "0": "0691182779",
+    "2": "9780691182773"
+  },
+  "asin": "0691182779",
+  "ean": ["0691182779"],
+  "publication": "Princeton University Press (2018), 176 pages",
+  "date": "2018",
+  "summary": "Millions, Billions, Zillions: Defending Yourself in a World of Too Many Numbers by Brian Kernighan (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["512.788"],
+    "wording": ["Algebra",
+    "Mathematics",
+    "Natural sciences & mathematics",
+    "Number theory"]
+  },
+  "lcc": {
+    "code": "QA255 .K47"
+  },
+  "source": "amazon uk books",
+  "workcode": "22498033",
+  "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"306616612": {
+  "books_id": "306616612",
+  "title": "The Struggle for Taiwan: A History of America, China, and the Island Caught Between",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Khan, Sulmaan Wasif",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Khan, Sulmaan Wasif",
+    "fl": "Sulmaan Wasif Khan",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "1541605047",
+  "isbn": {
+    "0": "1541605047",
+    "2": "9781541605046"
+  },
+  "asin": "1541605047",
+  "ean": ["1541605047"],
+  "publication": "Basic Books (2024), 336 pages",
+  "date": "2024",
+  "summary": "The Struggle for Taiwan: A History of America, China, and the Island Caught Between by Sulmaan Wasif Khan (2024)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["951.24905"],
+    "wording": ["China and adjacent areas",
+    "East China Sea Area",
+    "History & geography",
+    "History of Asia",
+    "Southeast China",
+    "Taiwan"]
+  },
+  "lcc": {
+    "code": "DS799.818 .K49"
+  },
+  "source": "amazon.com books",
+  "workcode": "31240646",
+  "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.2",
     "text": "Hardcover"
