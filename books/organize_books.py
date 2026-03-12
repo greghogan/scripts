@@ -14,6 +14,7 @@ import time
 # --- CONFIGURATION ---
 BY_AUTHOR_DIR_NAME = "By Author"
 BY_YEAR_DIR_NAME = "By Year"
+COLLECTIONS_DIR_NAME = "Collections"
 
 # --- CLASSES ---
 
@@ -159,6 +160,64 @@ def update_year_symlinks(real_file_path, library_root, meta_map):
         os.symlink(target_path, link_path)
     except OSError as e:
         print(f"[WARN] Could not create symlink for {year}: {e}")
+
+def normalize_collection_name(name):
+    return str(name).replace('/', '-').strip()
+
+def build_collection_index(collections_map):
+    index = defaultdict(set)
+    if not isinstance(collections_map, dict):
+        return index
+
+    for collection_name, asins in collections_map.items():
+        if not isinstance(asins, list):
+            continue
+        safe_name = normalize_collection_name(collection_name)
+        if not safe_name:
+            continue
+        for asin in asins:
+            clean = clean_asin(asin)
+            if clean:
+                index[clean].add(safe_name)
+    return index
+
+def update_collection_symlinks(real_file_path, library_root, collection_index):
+    """Creates symlinks in the 'Collections' directory."""
+    if not collection_index:
+        return
+
+    filename = os.path.basename(real_file_path)
+    regex_asin = re.compile(r'\[([A-Z0-9]+)\]')
+    match = regex_asin.search(filename)
+    if not match:
+        return
+
+    asin = clean_asin(match.group(1))
+    if asin not in collection_index:
+        return
+
+    base_collections_dir = os.path.join(library_root, COLLECTIONS_DIR_NAME)
+
+    for collection_name in sorted(collection_index[asin]):
+        collection_dir = os.path.join(base_collections_dir, collection_name)
+        os.makedirs(collection_dir, exist_ok=True)
+
+        link_path = os.path.join(collection_dir, filename)
+
+        real_file_abs = os.path.abspath(real_file_path)
+        link_dir_abs = os.path.dirname(os.path.abspath(link_path))
+        target_path = os.path.relpath(real_file_abs, start=link_dir_abs)
+
+        if os.path.exists(link_path) or os.path.islink(link_path):
+            try:
+                os.unlink(link_path)
+            except OSError:
+                pass
+
+        try:
+            os.symlink(target_path, link_path)
+        except OSError as e:
+            print(f"[WARN] Could not create symlink for collection '{collection_name}': {e}")
 
 # --- LOADERS ---
 
@@ -321,7 +380,7 @@ def build_virtual_tree(files, meta_map, manual_map, ddc_tree, library_root):
     return root, map_updated
 
 
-def balance_and_execute(node, threshold, dry_run, library_root, meta_map):
+def balance_and_execute(node, threshold, dry_run, library_root, meta_map, collection_index):
     """
     Revised to accept library_root for symlinking.
     """
@@ -375,11 +434,12 @@ def balance_and_execute(node, threshold, dry_run, library_root, meta_map):
         if not dry_run:
             update_author_symlinks(dst, library_root)
             update_year_symlinks(dst, library_root, meta_map)
+            update_collection_symlinks(dst, library_root, collection_index)
 
     # Recurse
     for key in active_subfolders:
         child_node = node.children[key]
-        balance_and_execute(child_node, threshold, dry_run, library_root, meta_map)
+        balance_and_execute(child_node, threshold, dry_run, library_root, meta_map, collection_index)
 
 def get_all_files_recursive(node):
     all_f = node.files[:]
@@ -394,6 +454,7 @@ def remove_empty_dirs(path, dry_run):
             # Don't delete our special Author directory!
             if name == BY_AUTHOR_DIR_NAME: continue
             if name == BY_YEAR_DIR_NAME: continue
+            if name == COLLECTIONS_DIR_NAME: continue
 
             full_path = os.path.join(root, name)
             try:
@@ -464,6 +525,34 @@ def reset_year_dir(library_root, dry_run):
         if not dry_run:
             os.makedirs(year_path)
 
+def reset_collections_dir(library_root, dry_run):
+    """Wipes the 'Collections' directory."""
+    collections_path = os.path.join(library_root, COLLECTIONS_DIR_NAME)
+
+    if os.path.exists(collections_path):
+        if dry_run:
+            print(f"[RESET] Would delete and recreate '{COLLECTIONS_DIR_NAME}'")
+        else:
+            trash_name = f"{COLLECTIONS_DIR_NAME}_trash_{int(time.time())}"
+            trash_path = os.path.join(library_root, trash_name)
+
+            try:
+                os.rename(collections_path, trash_path)
+            except OSError:
+                shutil.rmtree(collections_path, ignore_errors=True)
+                trash_path = None
+
+            os.makedirs(collections_path, exist_ok=True)
+
+            if trash_path and os.path.exists(trash_path):
+                try:
+                    shutil.rmtree(trash_path)
+                except OSError:
+                    pass
+    else:
+        if not dry_run:
+            os.makedirs(collections_path)
+
 def main():
     parser = argparse.ArgumentParser(description="Reorganize Library (In-Place)")
     parser.add_argument("library_dir", help="Root directory of the library")
@@ -484,11 +573,15 @@ def main():
     meta_map = load_lt_metadata(args.lt_json)
     manual_map_path = os.path.join(root_dir, "manual_ddc_map.json")
     manual_map = load_json_map(manual_map_path)
+    collections_map_path = os.path.join(root_dir, "collections.json")
+    collections_map = load_json_map(collections_map_path)
+    collection_index = build_collection_index(collections_map)
 
     # 2. Reset Author Directory (Before scanning, to avoid scanning symlinks!)
     # We do this first so we don't accidentally index the symlinks as real files.
     reset_author_dir(root_dir, args.dry_run)
     reset_year_dir(root_dir, args.dry_run)
+    reset_collections_dir(root_dir, args.dry_run)
 
     # 3. Scan Files
     print(f"Scanning library: {root_dir}...")
@@ -498,7 +591,10 @@ def main():
             # Skip hidden files, config files, and the Author dir itself (if it wasn't fully deleted)
             if BY_AUTHOR_DIR_NAME in r: continue
             if BY_YEAR_DIR_NAME in r: continue
+            if COLLECTIONS_DIR_NAME in r: continue
             if file.startswith('.') or file in ["manual_ddc_map.json", "ddc_map.json", os.path.basename(__file__)]:
+                continue
+            if file == "collections.json":
                 continue
 
             # Avoid picking up symlinks if they exist elsewhere
@@ -523,7 +619,7 @@ def main():
     # 6. Execute Moves + Create Symlinks
     print(f"Reorganizing & Linking (Threshold: {args.threshold})...")
     for child_key, child_node in virtual_root.children.items():
-        balance_and_execute(child_node, args.threshold, args.dry_run, root_dir, meta_map)
+        balance_and_execute(child_node, args.threshold, args.dry_run, root_dir, meta_map, collection_index)
 
     # 7. Cleanup
     print("Cleaning up empty directories...")
