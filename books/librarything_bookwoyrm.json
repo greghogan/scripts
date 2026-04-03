@@ -37,6 +37,7 @@
   },
   "source": "amazon.com",
   "workcode": "15307721",
+  "price": "$29.95 (USD)",
   "entrydate": "2025-03-03",
   "format": [{
     "code": "1.1.1",
@@ -82,6 +83,7 @@
   },
   "source": "amazon.com",
   "workcode": "18136590",
+  "price": "$19.95 (USD)",
   "entrydate": "2025-03-03",
   "format": [{
     "code": "1.1.1",
@@ -125,10 +127,11 @@
     "Track events, running; General track and field"]
   },
   "lcc": {
-    "code": "GV1065 .T73 .K64"
+    "code": "GV1065.17 .T73 .K64"
   },
   "source": "amazon.com",
   "workcode": "15238221",
+  "price": "$18.95 (USD)",
   "entrydate": "2025-03-03",
   "format": [{
     "code": "1.1.1",
@@ -176,6 +179,7 @@
   },
   "source": "amazon.com books",
   "workcode": "26609095",
+  "price": "$23.95 (USD)",
   "entrydate": "2025-03-03",
   "format": [{
     "code": "1.1.1",
@@ -229,6 +233,7 @@
   },
   "source": "amazon.com",
   "workcode": "21672987",
+  "price": "$24.95 (USD)",
   "entrydate": "2025-03-04",
   "format": [{
     "code": "1.1.1",
@@ -269,10 +274,11 @@
     "Track events, running; General track and field"]
   },
   "lcc": {
-    "code": "GV1065 .M54"
+    "code": "GV1065 .M64"
   },
   "source": "amazon.com",
   "workcode": "16904731",
+  "price": "$22.99 (USD)",
   "entrydate": "2025-03-04",
   "format": [{
     "code": "1.1.1",
@@ -315,7 +321,7 @@
     "Track events, running; General track and field"]
   },
   "lcc": {
-    "code": "GV1061 .V36"
+    "code": "GV1061.5 .V36"
   },
   "source": "amazon.com books",
   "workcode": "21614509",
@@ -360,19 +366,19 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["796.4252"],
+    "code": ["796.42"],
     "wording": ["Arts & recreation",
     "Athletic and outdoor sports and games",
-    "Marathon",
     "Olympic sports",
     "Recreation, sports, and performing arts",
     "Track events, running; General track and field"]
   },
   "lcc": {
-    "code": "GV1065.17 .T73"
+    "code": "GV1065.17 .T73 .K66"
   },
   "source": "amazon.com",
   "workcode": "17736237",
+  "price": "$21.95 (USD)",
   "entrydate": "2025-03-04",
   "format": [{
     "code": "1.1.1",
@@ -425,6 +431,7 @@
   "1191"],
   "source": "amazon.com",
   "workcode": "12589058",
+  "price": "$49 (USD)",
   "entrydate": "2025-03-04",
   "format": [{
     "code": "1.1.1",
@@ -465,7 +472,7 @@
     "Natural sciences & mathematics"]
   },
   "lcc": {
-    "code": "QA152.3 .R8"
+    "code": "QA152.3 .R87"
   },
   "series": ["AoPS Introductory Curriculum"],
   "genre": ["Nonfiction",
@@ -476,6 +483,7 @@
   "1191"],
   "source": "amazon.com",
   "workcode": "12673826",
+  "price": "$53 (USD)",
   "entrydate": "2025-03-04",
   "format": [{
     "code": "1.1.1",
@@ -510,16 +518,19 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["370"],
-    "wording": ["Education",
-    "Education",
-    "Social sciences"]
+    "code": ["511.36"],
+    "wording": ["General principles of mathematics",
+    "Mathematical (Symbolic) logic",
+    "Mathematics",
+    "Natural sciences & mathematics",
+    "Proof Theory"]
   },
   "lcc": {
     "code": "QA63 .L45"
   },
   "source": "amazon.com",
   "workcode": "3553906",
+  "price": "$36 (USD)",
   "entrydate": "2025-03-04",
   "format": [{
     "code": "1.1.1",
@@ -570,6 +581,7 @@
   },
   "source": "amazon.com",
   "workcode": "11937025",
+  "price": "$38 (USD)",
   "entrydate": "2025-03-04",
   "format": [{
     "code": "1.1.1",
@@ -625,6 +637,7 @@
   "1191"],
   "source": "amazon.com",
   "workcode": "8125263",
+  "price": "$64 (USD)",
   "entrydate": "2025-03-05",
   "format": [{
     "code": "1.1.1",
@@ -675,6 +688,7 @@
   },
   "source": "amazon.com books",
   "workcode": "27980958",
+  "price": "$39.99 (USD)",
   "entrydate": "2025-03-05",
   "format": [{
     "code": "1.1.2",
@@ -732,6 +746,7 @@
   "1191"],
   "source": "amazon.com books",
   "workcode": "21447743",
+  "price": "$46 (USD)",
   "entrydate": "2025-03-05",
   "format": [{
     "code": "1.1.1",
@@ -776,6 +791,7 @@
   },
   "source": "amazon.com",
   "workcode": "8992182",
+  "price": "$321.99 (USD)",
   "entrydate": "2025-03-05",
   "format": [{
     "code": "1.1.2",
@@ -829,6 +845,7 @@
   "4778"],
   "source": "amazon.com books",
   "workcode": "23145145",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-03-05",
   "format": [{
     "code": "1.1.1",
@@ -881,6 +898,7 @@
   },
   "source": "amazon.com books",
   "workcode": "30646806",
+  "price": "$32 (USD)",
   "entrydate": "2025-03-05",
   "format": [{
     "code": "1.1.2",
@@ -949,6 +967,7 @@
   "3805"],
   "source": "amazon.com books",
   "workcode": "20458768",
+  "price": "$39.95 (USD)",
   "entrydate": "2025-03-05",
   "format": [{
     "code": "1.1.2",
@@ -1012,6 +1031,7 @@
   "1457"],
   "source": "amazon.com books",
   "workcode": "26726647",
+  "price": "$35 (USD)",
   "entrydate": "2025-03-05",
   "format": [{
     "code": "1.1.2",
@@ -1059,10 +1079,11 @@
     "United States"]
   },
   "lcc": {
-    "code": "E178.1"
+    "code": "E178.1 .A447"
   },
   "source": "amazon.com books",
   "workcode": "25960198",
+  "price": "$25 (USD)",
   "entrydate": "2025-03-12",
   "format": [{
     "code": "1.1.1",
@@ -1107,6 +1128,7 @@
   },
   "source": "amazon.com books",
   "workcode": "28911427",
+  "price": "$25 (USD)",
   "entrydate": "2025-03-12",
   "format": [{
     "code": "1.1.1",
@@ -1151,6 +1173,7 @@
   },
   "source": "amazon.com books",
   "workcode": "17673787",
+  "price": "$25 (USD)",
   "entrydate": "2025-03-12",
   "format": [{
     "code": "1.1.1",
@@ -1195,6 +1218,7 @@
   },
   "source": "amazon.com books",
   "workcode": "17673827",
+  "price": "$18 (USD)",
   "entrydate": "2025-03-12",
   "format": [{
     "code": "1.1.1",
@@ -1239,6 +1263,7 @@
   },
   "source": "amazon.com books",
   "workcode": "17673855",
+  "price": "$18 (USD)",
   "entrydate": "2025-03-12",
   "format": [{
     "code": "1.1.1",
@@ -1283,6 +1308,7 @@
   },
   "source": "amazon.com books",
   "workcode": "17673891",
+  "price": "$16.5 (USD)",
   "entrydate": "2025-03-12",
   "format": [{
     "code": "1.1.1",
@@ -1334,6 +1360,7 @@
   },
   "source": "amazon.com books",
   "workcode": "17673877",
+  "price": "$15.5 (USD)",
   "entrydate": "2025-03-12",
   "format": [{
     "code": "1.1.1",
@@ -1384,6 +1411,7 @@
   },
   "source": "amazon.com books",
   "workcode": "17673923",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-03-12",
   "format": [{
     "code": "1.1.1",
@@ -1430,6 +1458,7 @@
   },
   "source": "amazon.com books",
   "workcode": "22696607",
+  "price": "$26 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -1530,6 +1559,7 @@
   "1599"],
   "source": "amazon.com",
   "workcode": "18243823",
+  "price": "$16.95 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -1589,6 +1619,7 @@
   "1457"],
   "source": "amazon.com books",
   "workcode": "26903927",
+  "price": "$28 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -1667,6 +1698,7 @@
   "1457"],
   "source": "Amazon.com",
   "workcode": "12594",
+  "price": "$16.99 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -1728,6 +1760,7 @@
   "17963"],
   "source": "amazon.com",
   "workcode": "19243361",
+  "price": "$30 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -1795,6 +1828,7 @@
   "11"],
   "source": "Amazon.com",
   "workcode": "1833",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -1852,6 +1886,7 @@
   "1457"],
   "source": "amazon.com",
   "workcode": "19345687",
+  "price": "$18 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -1888,6 +1923,7 @@
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "26728985",
+  "price": "$20 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -1950,6 +1986,7 @@
   "1457"],
   "source": "amazon.com books",
   "workcode": "19491560",
+  "price": "$16.95 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -2017,6 +2054,7 @@
   "17963"],
   "source": "Amazon.com",
   "workcode": "508038",
+  "price": "$64.99 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -2133,6 +2171,7 @@
   "17963"],
   "source": "amazon.com",
   "workcode": "21536448",
+  "price": "$30 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -2185,6 +2224,7 @@
   "1599"],
   "source": "amazon.com books",
   "workcode": "29796394",
+  "price": "$40 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -2241,6 +2281,7 @@
   "1191"],
   "source": "amazon.com",
   "workcode": "8125259",
+  "price": "$57 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -2287,6 +2328,7 @@
   },
   "source": "amazon.com books",
   "workcode": "24160637",
+  "price": "$35 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -2333,6 +2375,7 @@
   },
   "source": "amazon.com",
   "workcode": "21724736",
+  "price": "$28 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.2",
@@ -2381,6 +2424,7 @@
   "genre_id": ["20275895"],
   "source": "Amazon.com",
   "workcode": "707312",
+  "price": "$17.95 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -2435,6 +2479,7 @@
   "genre_id": ["20275895"],
   "source": "Amazon.com",
   "workcode": "3226078",
+  "price": "$16.95 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -2500,6 +2545,7 @@
   "genre_id": ["20275895"],
   "source": "Amazon.com",
   "workcode": "707308",
+  "price": "$17.95 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -2553,6 +2599,7 @@
   "genre_id": ["20275895"],
   "source": "Amazon.com",
   "workcode": "6325",
+  "price": "$17.95 (USD)",
   "entrydate": "2025-03-16",
   "format": [{
     "code": "1.1.1",
@@ -2600,10 +2647,11 @@
     "Data in computer systems"]
   },
   "lcc": {
-    "code": "QA76 .D35 .N38"
+    "code": "QA76.9 .D35 .N38"
   },
   "source": "amazon.com books",
   "workcode": "18863553",
+  "price": "$89.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -2653,10 +2701,11 @@
     "Technology"]
   },
   "lcc": {
-    "code": "R729.8 .A55"
+    "code": "R729.8"
   },
   "source": "amazon.com books",
   "workcode": "26561106",
+  "price": "$24 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -2706,10 +2755,11 @@
     "Track events, running; General track and field"]
   },
   "lcc": {
-    "code": "GV1061.5"
+    "code": "GV1061.5 .M237"
   },
   "source": "amazon.com books",
   "workcode": "26072556",
+  "price": "$19.95 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -2770,6 +2820,7 @@
   "1599"],
   "source": "Amazon.com",
   "workcode": "66566",
+  "price": "$17.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -2824,6 +2875,7 @@
   },
   "source": "amazon.com",
   "workcode": "1948987",
+  "price": "$34.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -2884,6 +2936,7 @@
   },
   "source": "Amazon.com",
   "workcode": "195730",
+  "price": "$74.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -2934,6 +2987,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31083785",
+  "price": "$29 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -2983,7 +3037,7 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .C153"
+    "code": "QA76.73 .C153"
   },
   "series": ["C++ In-Depth Series"],
   "genre": ["Nonfiction",
@@ -2992,6 +3046,7 @@
   "17963"],
   "source": "amazon.com",
   "workcode": "14393873",
+  "price": "$34.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -3037,6 +3092,7 @@
   },
   "source": "amazon.com books",
   "workcode": "30002899",
+  "price": "$35 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -3090,6 +3146,7 @@
   "Exposure"]],
   "source": "amazon.com",
   "workcode": "14045",
+  "price": "$25.95 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -3155,6 +3212,7 @@
   "1599"],
   "source": "amazon.com books",
   "workcode": "31084804",
+  "price": "$30 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -3207,6 +3265,7 @@
   },
   "source": "amazon.com",
   "workcode": "14741239",
+  "price": "$175 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -3254,6 +3313,7 @@
   },
   "source": "amazon.com books",
   "workcode": "28381774",
+  "price": "$30 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -3325,16 +3385,10 @@
   "Ciclo di Dune",
   "Saga completa de Dune",
   "Dune-Zyklus",
-  "Dyyni",
   "Duin",
   "Dune",
   "Dune Saga",
-  "Duin: chronologisch",
-  "Cronolog\u00eda completa de Dune",
-  "Saga completa de Dune",
-  "Duna: Kompletn\u00e1 chronol\u00f3gia",
-  "Distorsions",
-  "Dune: Complete Chronology"],
+  "Dyyni"],
   "awards": ["100 Books to Read in a Lifetime",
   "100 \u043b\u0443\u0447\u0448\u0438\u0445 \u043a\u043d\u0438\u0433 \u043f\u043e \u0432\u0435\u0440\u0441\u0438\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \"Marie Claire\"",
   "1000 Books to Read Before You Die",
@@ -3386,6 +3440,7 @@
   "281"],
   "source": "Amazon.com",
   "workcode": "4041453",
+  "price": "$10.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -3437,6 +3492,7 @@
   },
   "source": "amazon.com books",
   "workcode": "25940576",
+  "price": "$71.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -3484,6 +3540,7 @@
   ["Computer science"]],
   "source": "Amazon.com",
   "workcode": "24201",
+  "price": "$104.95 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -3535,6 +3592,7 @@
   },
   "source": "amazon.com",
   "workcode": "8280650",
+  "price": "$17.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -3586,6 +3644,7 @@
   },
   "source": "amazon.com",
   "workcode": "13016396",
+  "price": "$14.95 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -3634,6 +3693,7 @@
   },
   "source": "amazon.com books",
   "workcode": "27849644",
+  "price": "$30 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -3689,6 +3749,7 @@
   },
   "source": "amazon.com",
   "workcode": "17022522",
+  "price": "$16.95 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -3734,6 +3795,7 @@
   },
   "source": "amazon.com books",
   "workcode": "27125136",
+  "price": "$28 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -3786,6 +3848,7 @@
   },
   "source": "amazon.com books",
   "workcode": "30931211",
+  "price": "$28.99 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.2",
@@ -3851,6 +3914,7 @@
   "1457"],
   "source": "amazon.com",
   "workcode": "5301815",
+  "price": "$17.95 (USD)",
   "entrydate": "2025-03-17",
   "format": [{
     "code": "1.1.1",
@@ -3902,6 +3966,7 @@
   "subject": [["Calculus"]],
   "source": "Amazon.com",
   "workcode": "780161",
+  "price": "$329.95 (USD)",
   "entrydate": "2025-05-03",
   "format": [{
     "code": "1.1.2",
@@ -3956,6 +4021,7 @@
   },
   "source": "Amazon.com",
   "workcode": "45833",
+  "price": "$160.95 (USD)",
   "entrydate": "2025-05-03",
   "format": [{
     "code": "1.1.2",
@@ -4007,6 +4073,7 @@
   },
   "source": "amazon.com",
   "workcode": "3471528",
+  "price": "$16.99 (USD)",
   "entrydate": "2025-05-03",
   "format": [{
     "code": "1.1.1",
@@ -4057,6 +4124,7 @@
   },
   "source": "amazon.com",
   "workcode": "21343891",
+  "price": "$160 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4116,6 +4184,7 @@
   "1457"],
   "source": "amazon.com",
   "workcode": "16261337",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -4159,10 +4228,11 @@
     "Review and exercise"]
   },
   "lcc": {
-    "code": "QA309 .K342"
+    "code": "QA309 .C734"
   },
   "source": "amazon.com books",
   "workcode": "16261367",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -4211,6 +4281,7 @@
   "genre_id": ["20275895"],
   "source": "amazon.com",
   "workcode": "409705",
+  "price": "$353.95 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4264,6 +4335,7 @@
   "Textbooks"]],
   "source": "amazon.com",
   "workcode": "2471360",
+  "price": "$339.95 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4326,6 +4398,7 @@
   "1457"],
   "source": "amazon.com",
   "workcode": "1136324",
+  "price": "$114 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4474,6 +4547,7 @@
   "1457"],
   "source": "amazon.com",
   "workcode": "731384",
+  "price": "$300.95 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4521,10 +4595,11 @@
     "Viral pneumonia, Covid-19"]
   },
   "lcc": {
-    "code": "RA644 .C67 .K447"
+    "code": "RA425 .K44"
   },
   "source": "amazon.com books",
   "workcode": "29082176",
+  "price": "$29.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4710,6 +4785,7 @@
   "138448"],
   "source": "Amazon.com",
   "workcode": "308646",
+  "price": "$16.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4795,6 +4871,7 @@
   "138448"],
   "source": "amazon.com books",
   "workcode": "653467",
+  "price": "$16.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4852,6 +4929,7 @@
   },
   "source": "amazon.com",
   "workcode": "209834",
+  "price": "$16.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -4940,6 +5018,7 @@
   "138448"],
   "source": "amazon.com",
   "workcode": "22986",
+  "price": "$9.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -5000,6 +5079,7 @@
   "138448"],
   "source": "Amazon.com",
   "workcode": "2327576",
+  "price": "$16.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -5062,6 +5142,7 @@
   "138448"],
   "source": "Amazon.com",
   "workcode": "2327524",
+  "price": "$16.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -5119,6 +5200,7 @@
   "138448"],
   "source": "Amazon.com",
   "workcode": "14492436",
+  "price": "$16.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -5257,6 +5339,7 @@
   },
   "source": "amazon.com",
   "workcode": "1583243",
+  "price": "$125 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -5308,6 +5391,7 @@
   },
   "source": "amazon.com",
   "workcode": "4561239",
+  "price": "$149.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -5355,7 +5439,7 @@
     "Natural sciences & mathematics"]
   },
   "lcc": {
-    "code": "QA76 .M35 .K74"
+    "code": "QA76.9 .M35 .K736"
   },
   "series": ["DeMYSTiFieD Math and Science",
   "McGraw-Hill Demystified"],
@@ -5367,6 +5451,7 @@
   "1457"],
   "source": "amazon.com books",
   "workcode": "7997014",
+  "price": "$27 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -5416,8 +5501,14 @@
   "lcc": {
     "code": "QA241"
   },
+  "series": ["Encyclopaedia of Mathematical Sciences"],
+  "genre": ["Nonfiction",
+  "Science & Nature"],
+  "genre_id": ["20275895",
+  "1457"],
   "source": "amazon.com",
   "workcode": "2028243",
+  "price": "$159.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -5473,6 +5564,7 @@
   ["mathematics"]],
   "source": "amazon.com books",
   "workcode": "1674038",
+  "price": "$71 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -5533,6 +5625,7 @@
   "1457"],
   "source": "amazon.com books",
   "workcode": "23236595",
+  "price": "$18 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -5586,6 +5679,7 @@
   },
   "source": "amazon.com books",
   "workcode": "28742002",
+  "price": "$32.5 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -5671,6 +5765,7 @@
   "11"],
   "source": "Amazon.com",
   "workcode": "23197",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -5745,6 +5840,7 @@
   "1599"],
   "source": "Amazon.com",
   "workcode": "100120",
+  "price": "$27 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -5798,6 +5894,7 @@
   },
   "source": "amazon.com",
   "workcode": "16346393",
+  "price": "$9.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -5845,6 +5942,7 @@
   },
   "source": "amazon.com",
   "workcode": "12613388",
+  "price": "$9.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -5901,6 +5999,7 @@
   "3578"],
   "source": "amazon.com",
   "workcode": "10479720",
+  "price": "$21.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -5984,7 +6083,7 @@
     "West Coast U.S."]
   },
   "lcc": {
-    "code": "GV199 .P3 .M36"
+    "code": "GV199.42 .P3 .M36"
   },
   "source": "amazon.com books",
   "workcode": "25311315",
@@ -6074,6 +6173,7 @@
   "18384"],
   "source": "amazon.com",
   "workcode": "205904",
+  "price": "$17 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -6146,6 +6246,7 @@
   "Career in aeronautics"]],
   "source": "Amazon.com",
   "workcode": "139402",
+  "price": "$18.99 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -6197,9 +6298,11 @@
   },
   "awards": ["Andrew Carnegie Medals for Excellence in Fiction and Nonfiction",
   "BookTube Prize",
+  "CCBC Choices",
   "Chicago Public Library Best of the Best: Adults",
   "Chicago Public Library Best of the Best: Kids",
   "Chicago Tribune 10 Best Books of the Year",
+  "Dogwood Readers List",
   "Evanston Public Library 101 Great Books for Kids",
   "Globe and Mail Top 100 Book",
   "Goodreads Choice Awards",
@@ -6232,6 +6335,7 @@
   "1457"],
   "source": "amazon.com books",
   "workcode": "27607715",
+  "price": "$32 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6283,6 +6387,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31084775",
+  "price": "$32 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6341,6 +6446,7 @@
   },
   "source": "Amazon.com",
   "workcode": "151613",
+  "price": "$142 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6392,6 +6498,7 @@
   },
   "source": "amazon.com",
   "workcode": "8992901",
+  "price": "$169 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6449,6 +6556,7 @@
   ["Geometry, Plane"]],
   "source": "amazon.com",
   "workcode": "5029426",
+  "price": "$29.95 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6508,6 +6616,7 @@
   "17963"],
   "source": "Amazon.com",
   "workcode": "187805",
+  "price": "$89.95 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.1",
@@ -6612,6 +6721,7 @@
   },
   "source": "amazon.com books",
   "workcode": "32371295",
+  "price": "$30 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6666,6 +6776,7 @@
   },
   "source": "amazon.com books",
   "workcode": "32388088",
+  "price": "$32 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6726,6 +6837,7 @@
   "1599"],
   "source": "amazon.com books",
   "workcode": "31085033",
+  "price": "$32 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6788,6 +6900,7 @@
   "3805"],
   "source": "amazon.com books",
   "workcode": "31084718",
+  "price": "$28 (USD)",
   "entrydate": "2025-05-04",
   "format": [{
     "code": "1.1.2",
@@ -6848,6 +6961,7 @@
   "281"],
   "source": "amazon.com books",
   "workcode": "31233724",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-06-24",
   "format": [{
     "code": "1.1.1",
@@ -6901,6 +7015,7 @@
   },
   "source": "amazon.com",
   "workcode": "18699895",
+  "price": "$20 (USD)",
   "entrydate": "2025-06-24",
   "format": [{
     "code": "1.1.2",
@@ -6958,6 +7073,7 @@
   "18th century"]],
   "source": "Amazon.com",
   "workcode": "696960",
+  "price": "$27.5 (USD)",
   "entrydate": "2025-06-24",
   "format": [{
     "code": "1.1.2",
@@ -7010,6 +7126,7 @@
   },
   "source": "amazon.com books",
   "workcode": "32850523",
+  "price": "$38 (USD)",
   "entrydate": "2025-07-13",
   "format": [{
     "code": "1.1.2",
@@ -7057,6 +7174,7 @@
   },
   "source": "amazon.com",
   "workcode": "12326749",
+  "price": "$22.95 (USD)",
   "entrydate": "2025-07-13",
   "format": [{
     "code": "1.1.1",
@@ -7118,6 +7236,7 @@
   },
   "source": "amazon.com books",
   "workcode": "17619071",
+  "price": "$69.99 (USD)",
   "entrydate": "2025-07-28",
   "format": [{
     "code": "1.1.1",
@@ -7165,6 +7284,7 @@
   },
   "source": "amazon.com books",
   "workcode": "28679057",
+  "price": "$59.99 (USD)",
   "entrydate": "2025-08-16",
   "format": [{
     "code": "1.1.1",
@@ -7259,6 +7379,7 @@
   },
   "source": "amazon.com",
   "workcode": "15239793",
+  "price": "$19.95 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.1",
@@ -7306,6 +7427,7 @@
   },
   "source": "amazon.com",
   "workcode": "24944599",
+  "price": "$27 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.2",
@@ -7358,6 +7480,7 @@
   "1457"],
   "source": "Amazon.com",
   "workcode": "379103",
+  "price": "$199 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.2",
@@ -7406,6 +7529,7 @@
   },
   "source": "amazon.com books",
   "workcode": "25623909",
+  "price": "$65.99 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.1",
@@ -7468,6 +7592,7 @@
   },
   "source": "Amazon.com",
   "workcode": "12174",
+  "price": "$15.99 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.1",
@@ -7570,6 +7695,7 @@
   },
   "source": "amazon.com",
   "workcode": "23509035",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.1",
@@ -7627,6 +7753,7 @@
   "1599"],
   "source": "amazon.com",
   "workcode": "11725469",
+  "price": "$19.95 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.1",
@@ -7682,6 +7809,7 @@
   "1599"],
   "source": "amazon.com",
   "workcode": "15857289",
+  "price": "$35 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.2",
@@ -7739,6 +7867,7 @@
   "1599"],
   "source": "amazon.com books",
   "workcode": "23831118",
+  "price": "$40 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.2",
@@ -7786,6 +7915,7 @@
   },
   "source": "amazon.com books",
   "workcode": "33572110",
+  "price": "$28.99 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.2",
@@ -7852,6 +7982,7 @@
   "1599"],
   "source": "Amazon.com",
   "workcode": "8855",
+  "price": "$32.5 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.1",
@@ -7905,6 +8036,7 @@
   },
   "source": "amazon.com",
   "workcode": "22303566",
+  "price": "$30 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.2",
@@ -7962,6 +8094,7 @@
   "1944"],
   "source": "Amazon.com",
   "workcode": "54997",
+  "price": "$35 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.2",
@@ -8015,6 +8148,7 @@
   },
   "source": "amazon.com",
   "workcode": "10049220",
+  "price": "$50 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.2",
@@ -8092,6 +8226,7 @@
   "1599"],
   "source": "Amazon.com",
   "workcode": "8793",
+  "price": "$45.95 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.1",
@@ -8144,7 +8279,7 @@
     "Social sciences"]
   },
   "lcc": {
-    "code": "DA88 .R64"
+    "code": "DA88 .R63"
   },
   "series": ["A Naval History of Britain"],
   "awards": ["NZ Listener 100 Best Books of the Year"],
@@ -8204,6 +8339,13 @@
   "lcc": {
     "code": "DS119.77 .M87"
   },
+  "awards": ["National Jewish Book Award"],
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "History"],
+  "genre_id": ["20275895",
+  "1247",
+  "1599"],
   "source": "amazon.com books",
   "workcode": "33433809",
   "entrydate": "2025-08-24",
@@ -8273,6 +8415,7 @@
   "3805"],
   "source": "Amazon.com",
   "workcode": "7754",
+  "price": "$29.95 (USD)",
   "entrydate": "2025-08-24",
   "format": [{
     "code": "1.1.1",
@@ -8383,6 +8526,7 @@
   },
   "source": "amazon.com",
   "workcode": "12521884",
+  "price": "$1600 (USD)",
   "entrydate": "2025-08-25",
   "format": [{
     "code": "1.3",
@@ -8432,6 +8576,7 @@
   },
   "source": "amazon.com books",
   "workcode": "26423725",
+  "price": "$40 (USD)",
   "entrydate": "2025-08-25",
   "format": [{
     "code": "1.1.2",
@@ -8496,6 +8641,7 @@
   "17963"],
   "source": "amazon.com books",
   "workcode": "33324075",
+  "price": "$34 (USD)",
   "entrydate": "2025-08-25",
   "format": [{
     "code": "1.1.2",
@@ -8544,6 +8690,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31081530",
+  "price": "$90 (USD)",
   "entrydate": "2025-08-25",
   "format": [{
     "code": "1.1.2",
@@ -8659,6 +8806,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "14494749",
+  "price": "$20 (USD)",
   "entrydate": "2025-09-03",
   "format": [{
     "code": "1.1.1",
@@ -8710,10 +8858,12 @@
   "Orwell Prize"],
   "genre": ["Nonfiction",
   "General Nonfiction",
-  "History"],
+  "History",
+  "Politics, Government, Law and Public Policy"],
   "genre_id": ["20275895",
   "1247",
-  "1599"],
+  "1599",
+  "3805"],
   "source": "amazon uk books",
   "workcode": "32626157",
   "entrydate": "2025-09-03",
@@ -8752,12 +8902,10 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["338.76102504"],
+    "code": ["338.7"],
     "wording": ["Business Enterprises",
-    "By Industry",
     "Economics",
     "Production",
-    "Service",
     "Social sciences"]
   },
   "lcc": {
@@ -8776,6 +8924,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "11050835",
+  "price": "$32 (USD)",
   "entrydate": "2025-09-03",
   "format": [{
     "code": "1.1.2",
@@ -8819,7 +8968,7 @@
     "Special computer methods (AI, barcoding, VR, web design, social media)"]
   },
   "lcc": {
-    "code": "Q325.5"
+    "code": "Q325.5 .D36"
   },
   "source": "amazon.com books",
   "workcode": "34443335",
@@ -8885,6 +9034,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "32332047",
+  "price": "$33 (USD)",
   "entrydate": "2025-09-03",
   "format": [{
     "code": "1.1.2",
@@ -8931,6 +9081,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "12294745",
+  "price": "$29.95 (USD)",
   "entrydate": "2025-09-03",
   "format": [{
     "code": "1.1.2",
@@ -8970,7 +9121,7 @@
     "Social sciences"]
   },
   "lcc": {
-    "code": "TK7874"
+    "code": "HD9696 .I584 .A8613"
   },
   "source": "amazon.com books",
   "workcode": "31150816",
@@ -9017,10 +9168,11 @@
     "United States"]
   },
   "lcc": {
-    "code": "E275 .F47"
+    "code": "E230 .F473"
   },
   "source": "amazon uk books",
   "workcode": "32968548",
+  "price": "$35.99 (USD)",
   "entrydate": "2025-09-03",
   "format": [{
     "code": "1.1.2",
@@ -9129,10 +9281,14 @@
   "The Economist Best Books"],
   "genre": ["Nonfiction",
   "General Nonfiction",
-  "History"],
+  "History",
+  "Sexuality and Gender Studies",
+  "Sociology"],
   "genre_id": ["20275895",
   "1247",
-  "1599"],
+  "1599",
+  "6880",
+  "5686"],
   "source": "amazon.com books",
   "workcode": "34192343",
   "entrydate": "2025-09-07",
@@ -9182,7 +9338,9 @@
   "lcc": {
     "code": "RC311 .G85"
   },
-  "awards": ["Barnes & Noble Best Books of the Year",
+  "awards": ["Audie Award",
+  "Barnes & Noble Best Books of the Year",
+  "BookPage Best Books",
   "Booklist Editor's Choice: Adult Books",
   "Booklist Editors' Choice: Adult Audio",
   "Books Are My Bag Readers' Award",
@@ -9199,6 +9357,7 @@
   "Heartland Booksellers Award",
   "Indigo Best Books of the Year",
   "NPR: Books We Love",
+  "Notable Books List",
   "Science News Favorite Book",
   "The Best Books: Book Recommendations from the Multnomah County Library",
   "The Daily Telegraph's Greatest Books of the Year",
@@ -9214,6 +9373,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "33069560",
+  "price": "$28 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.2",
@@ -9259,10 +9419,11 @@
     "Specific Databases And Data Files"]
   },
   "lcc": {
-    "code": "QA76 .D3385 .K747"
+    "code": "QA76.9 .D3385"
   },
   "source": "amazon.com books",
   "workcode": "15537209",
+  "price": "$34.99 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.1",
@@ -9340,6 +9501,7 @@
   "1191"],
   "source": "amazon uk books",
   "workcode": "24831972",
+  "price": "$29.99 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.2",
@@ -9405,6 +9567,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "4829726",
+  "price": "$24.99 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.1",
@@ -9471,6 +9634,7 @@
   "1191"],
   "source": "amazon.com books",
   "workcode": "25976584",
+  "price": "$23.99 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.2",
@@ -9533,6 +9697,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "22615708",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.1",
@@ -9586,6 +9751,7 @@
     "Popular works"],
     "6": ["technology"]
   },
+  "series": ["The way things work"],
   "originaltitle": "The Way Things Work Now",
   "awards": ["A Horn Book Fanfare Best Book",
   "American Institute of Physics Science Writing Award",
@@ -9605,6 +9771,7 @@
   "genre_id": ["20275895"],
   "source": "Amazon.co.uk",
   "workcode": "63548",
+  "price": "$29.95 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.2",
@@ -9665,6 +9832,7 @@
     "Popular works"],
     "6": ["technology"]
   },
+  "series": ["The way things work"],
   "awards": ["Children's Favorites Awards",
   "Great Reads from Great Places"],
   "genre": ["Nonfiction",
@@ -9673,6 +9841,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "28719",
+  "price": "$35 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.2",
@@ -9724,6 +9893,7 @@
   "lcc": {
     "code": "T47 .M18"
   },
+  "series": ["The way things work"],
   "awards": ["Triple Crown Awards"],
   "genre": ["Nonfiction",
   "Technology"],
@@ -9731,6 +9901,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "17045783",
+  "price": "$35 (USD)",
   "entrydate": "2025-09-07",
   "format": [{
     "code": "1.1.2",
@@ -9785,6 +9956,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "11445135",
+  "price": "$29.95 (USD)",
   "entrydate": "2025-09-08",
   "format": [{
     "code": "1.1.2",
@@ -9841,6 +10013,7 @@
   },
   "source": "amazon uk books",
   "workcode": "30264549",
+  "price": "$119.99 (USD)",
   "entrydate": "2025-09-15",
   "format": [{
     "code": "1.1.2",
@@ -9892,6 +10065,7 @@
   },
   "source": "amazon uk books",
   "workcode": "30392810",
+  "price": "$80 (USD)",
   "entrydate": "2025-09-15",
   "format": [{
     "code": "1.1.2",
@@ -9949,6 +10123,7 @@
   "1247"],
   "source": "amazon uk books",
   "workcode": "31745956",
+  "price": "$45 (USD)",
   "entrydate": "2025-09-15",
   "format": [{
     "code": "1.1.2",
@@ -10004,6 +10179,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "161115",
+  "price": "$34.95 (USD)",
   "entrydate": "2025-09-15",
   "format": [{
     "code": "1.1.1",
@@ -10059,6 +10235,7 @@
   },
   "source": "amazon.com",
   "workcode": "19309960",
+  "price": "$19.99 (USD)",
   "entrydate": "2025-09-15",
   "format": [{
     "code": "1.1.1",
@@ -10107,6 +10284,7 @@
   },
   "source": "amazon uk books",
   "workcode": "23394897",
+  "price": "$64.99 (USD)",
   "entrydate": "2025-09-15",
   "format": [{
     "code": "1.1.2",
@@ -10157,6 +10335,7 @@
   "genre_id": ["20275895"],
   "source": "amazon uk books",
   "workcode": "19387106",
+  "price": "$22.99 (USD)",
   "entrydate": "2025-09-15",
   "format": [{
     "code": "1.1.2",
@@ -10211,6 +10390,7 @@
   },
   "source": "amazon uk books",
   "workcode": "23832346",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.2",
@@ -10326,6 +10506,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "22686588",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.2",
@@ -10392,6 +10573,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "15245899",
+  "price": "$21 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.1",
@@ -10438,6 +10620,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "706296",
+  "price": "$18.95 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.1",
@@ -10494,6 +10677,7 @@
   },
   "source": "amazon uk books",
   "workcode": "18814379",
+  "price": "$39.95 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.1",
@@ -10534,6 +10718,7 @@
   },
   "source": "amazon uk books",
   "workcode": "23264322",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.1",
@@ -10592,6 +10777,7 @@
   "1944"],
   "source": "amazon uk books",
   "workcode": "30993810",
+  "price": "$39.95 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.2",
@@ -10646,6 +10832,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "143113",
+  "price": "$72.95 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.2",
@@ -10711,6 +10898,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "16558032",
+  "price": "$54.99 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.2",
@@ -10760,6 +10948,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "5129529",
+  "price": "$79.95 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.1",
@@ -10831,6 +11020,7 @@
   "4778"],
   "source": "amazon.com books",
   "workcode": "32194506",
+  "price": "$25.95 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.1",
@@ -10878,6 +11068,7 @@
   },
   "source": "amazon uk books",
   "workcode": "17439664",
+  "price": "$40 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.2",
@@ -10991,6 +11182,7 @@
   },
   "source": "amazon uk books",
   "workcode": "14019685",
+  "price": "$59.99 (USD)",
   "entrydate": "2026-01-07",
   "format": [{
     "code": "1.1.1",
@@ -11065,6 +11257,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "15496687",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11184,6 +11377,7 @@
   },
   "source": "amazon.com books",
   "workcode": "32693186",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11238,6 +11432,7 @@
   },
   "source": "amazon uk books",
   "workcode": "26425665",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -11285,6 +11480,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "10513940",
+  "price": "$175 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11344,6 +11540,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "31085154",
+  "price": "$42 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11390,6 +11587,7 @@
   },
   "source": "amazon.com books",
   "workcode": "30336043",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11447,6 +11645,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "203429",
+  "price": "$62 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -11497,17 +11696,24 @@
     "Psychology"]
   },
   "lcc": {
-    "code": "BF698 .C45 .W48"
+    "code": "BF698.35 .C45 .W48"
   },
   "awards": ["Publishers Weekly's Best Books of the Year"],
   "genre": ["Nonfiction",
+  "Business",
+  "General Nonfiction",
   "History",
+  "Politics, Government, Law and Public Policy",
   "Religion & Spirituality"],
   "genre_id": ["20275895",
+  "20245",
+  "1247",
   "1599",
+  "3805",
   "1944"],
   "source": "amazon uk books",
   "workcode": "32879387",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11565,6 +11771,7 @@
   "1599"],
   "source": "amazon.com books",
   "workcode": "32954490",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11610,10 +11817,11 @@
     "for personal computers"]
   },
   "lcc": {
-    "code": "QA76 .L46"
+    "code": "QA76.774 .L46"
   },
   "source": "amazon.com books",
   "workcode": "24072518",
+  "price": "$69.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -11650,9 +11858,10 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["332"],
+    "code": ["338.5"],
     "wording": ["Economics",
-    "Financial economics",
+    "Microeconomics",
+    "Production",
     "Social sciences"]
   },
   "lcc": {
@@ -11662,13 +11871,16 @@
   "genre": ["Nonfiction",
   "Business",
   "Economics",
-  "General Nonfiction"],
+  "General Nonfiction",
+  "Politics, Government, Law and Public Policy"],
   "genre_id": ["20275895",
   "20245",
   "7973",
-  "1247"],
+  "1247",
+  "3805"],
   "source": "amazon.com books",
   "workcode": "34274726",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11717,6 +11929,7 @@
   },
   "source": "amazon uk books",
   "workcode": "28685848",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11790,6 +12003,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "22398",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -11856,6 +12070,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "32691222",
+  "price": "$31.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11902,6 +12117,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "9914089",
+  "price": "$85 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -11957,10 +12173,12 @@
   "awards": ["The Times (London) and Sunday Times Best Books of the Year"],
   "genre": ["Nonfiction",
   "General Nonfiction",
-  "Science & Nature"],
+  "Science & Nature",
+  "Sexuality and Gender Studies"],
   "genre_id": ["20275895",
   "1247",
-  "1457"],
+  "1457",
+  "6880"],
   "source": "amazon uk books",
   "workcode": "25910448",
   "entrydate": "2026-01-09",
@@ -12059,6 +12277,7 @@
   },
   "source": "amazon.com",
   "workcode": "23266255",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -12125,6 +12344,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "27571130",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -12192,6 +12412,7 @@
   "3578"],
   "source": "amazon uk books",
   "workcode": "31707230",
+  "price": "$32.5 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -12298,6 +12519,7 @@
   "3578"],
   "source": "Amazon.com",
   "workcode": "1435371",
+  "price": "$15.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12352,6 +12574,7 @@
   },
   "source": "amazon.com books",
   "workcode": "27587298",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12432,6 +12655,7 @@
   "1457"],
   "source": "amazon.com",
   "workcode": "16413297",
+  "price": "$99.5 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -12499,6 +12723,7 @@
   "34184"],
   "source": "amazon uk books",
   "workcode": "22153332",
+  "price": "$16.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12547,6 +12772,7 @@
   },
   "source": "amazon uk books",
   "workcode": "1639577",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12615,6 +12841,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "1197065",
+  "price": "$20.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12679,6 +12906,7 @@
   "4877"],
   "source": "amazon.co.uk",
   "workcode": "1141387",
+  "price": "$3.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12732,6 +12960,7 @@
   },
   "source": "Amazon.co.uk",
   "workcode": "124052",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12786,6 +13015,7 @@
   },
   "source": "amazon uk books",
   "workcode": "15743368",
+  "price": "$21.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12833,6 +13063,7 @@
   },
   "source": "amazon uk books",
   "workcode": "23366246",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -12889,6 +13120,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "1359594",
+  "price": "$15.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -12955,6 +13187,7 @@
   "3805"],
   "source": "amazon.com books",
   "workcode": "31497236",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -13002,6 +13235,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31471211",
+  "price": "$7.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13064,6 +13298,7 @@
   "genre_id": ["20275895"],
   "source": "amazon uk books",
   "workcode": "33779",
+  "price": "$11.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13114,10 +13349,11 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .A43"
+    "code": "QA76.9 .A43"
   },
   "source": "amazon.com books",
   "workcode": "31608310",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13242,6 +13478,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "28248081",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -13305,6 +13542,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "16031702",
+  "price": "$19.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13362,6 +13600,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "8372139",
+  "price": "$18.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13412,7 +13651,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "lcc": {
-    "code": "PZ7 .F964"
+    "code": "PZ7.1 .F964"
   },
   "series": ["It\u2019s Not a Fairy Tale"],
   "awards": ["Read Aloud Indiana Book Award"],
@@ -13422,6 +13661,7 @@
   "138448"],
   "source": "amazon uk books",
   "workcode": "29012073",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -13471,6 +13711,7 @@
   },
   "source": "amazon uk books",
   "workcode": "1292644",
+  "price": "$54.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -13541,6 +13782,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "537427",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13585,11 +13827,11 @@
   "originallanguage_codeA": ["eng"],
   "ddc": {
     "code": ["305.230973"],
-    "wording": ["Adolescents",
-    "Age groups",
+    "wording": ["Age groups",
     "Groups of people",
     "Social sciences",
-    "Social sciences, sociology & anthropology"]
+    "Social sciences, sociology & anthropology",
+    "Young people up to 20"]
   },
   "lcc": {
     "code": "HQ792 .U5 .H23"
@@ -13670,10 +13912,11 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .C153 .L677"
+    "code": "QA76.73 .C153 .L67"
   },
   "source": "amazon.com books",
   "workcode": "23921883",
+  "price": "$59.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13736,6 +13979,7 @@
   "1457"],
   "source": "Amazon.co.uk",
   "workcode": "501168",
+  "price": "$26 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13850,6 +14094,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "13849640",
+  "price": "$19.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -13916,13 +14161,16 @@
   "genre": ["Nonfiction",
   "Biography & Memoir",
   "General Nonfiction",
-  "History"],
+  "History",
+  "Politics, Government, Law and Public Policy"],
   "genre_id": ["20275895",
   "1240",
   "1247",
-  "1599"],
+  "1599",
+  "3805"],
   "source": "amazon uk books",
   "workcode": "28556929",
+  "price": "$45 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -13969,6 +14217,7 @@
   },
   "source": "amazon uk books",
   "workcode": "25805786",
+  "price": "$60 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14081,6 +14330,7 @@
   },
   "source": "amazon uk books",
   "workcode": "20989617",
+  "price": "$32.79 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -14143,10 +14393,11 @@
     "Special computer methods (AI, barcoding, VR, web design, social media)"]
   },
   "lcc": {
-    "code": "QA76 .D343 .D365"
+    "code": "QA76.9 .D343 .D365"
   },
   "source": "amazon uk books",
   "workcode": "25002972",
+  "price": "$69.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14230,7 +14481,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["339.20973"],
+    "code": ["339.2"],
     "wording": ["Distribution Of Income And Wealth",
     "Economics",
     "Macroeconomics and related topics",
@@ -14249,6 +14500,7 @@
   "United States"]],
   "source": "amazon.com",
   "workcode": "222333",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14304,6 +14556,7 @@
   },
   "source": "Amazon.co.uk",
   "workcode": "3985",
+  "price": "$59.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -14349,6 +14602,7 @@
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "29751129",
+  "price": "$14.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14486,8 +14740,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["509"],
-    "wording": ["History, geographic treatment, biography",
+    "code": ["509.2"],
+    "wording": ["Biography",
+    "History, geographic treatment, biography",
     "Natural sciences & mathematics",
     "Science"]
   },
@@ -14512,6 +14767,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "13583",
+  "price": "$51.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14581,6 +14837,7 @@
   "Trials, litigation, etc"]],
   "source": "amazon.co.uk",
   "workcode": "1836186",
+  "price": "$14.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14666,6 +14923,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "147358",
+  "price": "$31.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14787,6 +15045,7 @@
   },
   "source": "amazon uk books",
   "workcode": "28002712",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14842,6 +15101,7 @@
   },
   "source": "amazon uk books",
   "workcode": "21534563",
+  "price": "$16.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14888,6 +15148,7 @@
   },
   "source": "Amazon.com",
   "workcode": "754421",
+  "price": "$14.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -14941,6 +15202,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31259868",
+  "price": "$42 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -14997,7 +15259,7 @@
     "General Databases And Data Files"]
   },
   "lcc": {
-    "code": "QA76 .D3"
+    "code": "QA76.9 .D3"
   },
   "source": "amazon.com books",
   "workcode": "33338296",
@@ -15055,6 +15317,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31081584",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -15105,9 +15368,11 @@
   "NPR: Books We Love",
   "Non-Obvious Book Award"],
   "genre": ["Nonfiction",
-  "General Nonfiction"],
+  "General Nonfiction",
+  "Science & Nature"],
   "genre_id": ["20275895",
-  "1247"],
+  "1247",
+  "1457"],
   "source": "amazon uk books",
   "workcode": "30637078",
   "entrydate": "2026-01-09",
@@ -15160,6 +15425,7 @@
   },
   "source": "amazon.com books",
   "workcode": "12593700",
+  "price": "$41.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.1",
@@ -15215,6 +15481,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "22829977",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -15285,6 +15552,7 @@
   "34184"],
   "source": "amazon.com",
   "workcode": "5834248",
+  "price": "$24.99 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -15342,7 +15610,9 @@
     "Running and walking",
     "Technology"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "GV199.5 .S57"
+  },
   "source": "amazon.com books",
   "workcode": "33676535",
   "entrydate": "2026-01-09",
@@ -15401,6 +15671,7 @@
   ["V\ufffdazsonyi, B\ufffdalint"]],
   "source": "Amazon.com",
   "workcode": "91031",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-09",
   "format": [{
     "code": "1.1.2",
@@ -15460,10 +15731,11 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .C153"
+    "code": "QA76.73 .C153"
   },
   "source": "amazon.com books",
   "workcode": "27393834",
+  "price": "$44.99 (USD)",
   "entrydate": "2026-01-10",
   "format": [{
     "code": "1.1.1",
@@ -15582,6 +15854,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "51586",
+  "price": "$20 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -15658,6 +15931,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "22486031",
+  "price": "$40 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -15726,6 +16000,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "14832433",
+  "price": "$27 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -15788,6 +16063,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "41965",
+  "price": "$54.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -15845,7 +16121,7 @@
     "Rhetoric of speech"]
   },
   "lcc": {
-    "code": "HF5718 .M34"
+    "code": "PN4129.15 .M34"
   },
   "source": "amazon.com books",
   "workcode": "34348601",
@@ -15897,6 +16173,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "12058820",
+  "price": "$15.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -15997,7 +16274,7 @@
     "Social sciences, sociology & anthropology"]
   },
   "lcc": {
-    "code": "HC110 .W4"
+    "code": "HC110 .W4 .H344"
   },
   "awards": ["The Economist Best Books"],
   "genre": ["Nonfiction",
@@ -16008,6 +16285,7 @@
   "1247"],
   "source": "amazon uk books",
   "workcode": "30988939",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -16044,19 +16322,19 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["001.642"],
-    "wording": ["Computer science, information & general works",
+    "code": ["005.13"],
+    "wording": ["Computer programming (coding, HTML, Python)",
+    "Computer science, information & general works",
     "Computer science, knowledge & systems",
-    "Knowledge and learning in general",
-    "[Formerly: Data Processing]",
-    "[formerly : Computer programs and programming]",
-    "[formerly : Electronic]"]
+    "Programming",
+    "Programming languages"]
   },
   "lcc": {
     "code": "QA76.6"
   },
   "source": "amazon.com books",
   "workcode": "27312657",
+  "price": "$39.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -16167,6 +16445,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "32204750",
+  "price": "$32.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -16215,6 +16494,7 @@
   },
   "source": "amazon uk books",
   "workcode": "6800261",
+  "price": "$71.95 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -16354,6 +16634,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "1348832",
+  "price": "$34 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -16419,6 +16700,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "16872881",
+  "price": "$21 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -16480,6 +16762,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "26817330",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -16588,6 +16871,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31882827",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -16635,6 +16919,7 @@
   },
   "source": "amazon uk books",
   "workcode": "22680652",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -16693,6 +16978,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "10162592",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -16741,6 +17027,7 @@
   "subject": [["Computer algorithms"]],
   "source": "amazon.co.uk",
   "workcode": "84177",
+  "price": "$79.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -16812,6 +17099,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "14131",
+  "price": "$17.95 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -16866,6 +17154,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "15499403",
+  "price": "$39.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -16922,6 +17211,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "31608812",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -16967,10 +17257,11 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .C153 .A325"
+    "code": "QA76.73 .C153 .A325"
   },
   "source": "amazon uk books",
   "workcode": "31030317",
+  "price": "$46.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -17027,6 +17318,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "185793",
+  "price": "$26.95 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -17079,13 +17371,15 @@
     "Social sciences"]
   },
   "lcc": {
-    "code": "RA644.C67 M55"
+    "code": "RA644 .C67 .M55"
   },
   "series": ["Ian Miller's COVID-19"],
   "genre": ["Nonfiction",
-  "Economics"],
+  "General Nonfiction",
+  "Politics, Government, Law and Public Policy"],
   "genre_id": ["20275895",
-  "7973"],
+  "1247",
+  "3805"],
   "source": "amazon.com books",
   "workcode": "30358239",
   "entrydate": "2026-01-11",
@@ -17151,6 +17445,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "7864",
+  "price": "$75 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -17221,6 +17516,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "27153001",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -17264,7 +17560,7 @@
     "Psychology"]
   },
   "lcc": {
-    "code": "BF637 .R57"
+    "code": "BF637 .R57 .S545"
   },
   "source": "amazon uk books",
   "workcode": "31469039",
@@ -17313,10 +17609,11 @@
     "Recreation, sports, and performing arts"]
   },
   "lcc": {
-    "code": "GV885 .N37 .G59"
+    "code": "GV885.515 .N37 .G59"
   },
   "source": "amazon.com all media",
   "workcode": "31086183",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -17361,7 +17658,7 @@
     "Social sciences"]
   },
   "lcc": {
-    "code": "DK67 .U38 .Z94"
+    "code": "DK67.5 .U38 .Z94"
   },
   "awards": ["Marginal Revolution Best Book of the Year",
   "Observer Book of the Week"],
@@ -17375,6 +17672,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "29616626",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -17422,6 +17720,7 @@
   },
   "source": "amazon uk books",
   "workcode": "23639224",
+  "price": "$24.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -17468,6 +17767,7 @@
   },
   "source": "amazon uk books",
   "workcode": "32393525",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -17536,6 +17836,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "62244",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -17598,6 +17899,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "124016",
+  "price": "$17.95 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -17665,6 +17967,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "14301676",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -17731,6 +18034,7 @@
   "3805"],
   "source": "amazon.co.uk",
   "workcode": "12054051",
+  "price": "$20 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -17830,7 +18134,7 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76.73 .P98 .M42"
+    "code": "QA76.73 .P98"
   },
   "series": ["O'Reilly Reference"],
   "genre": ["Nonfiction",
@@ -17841,6 +18145,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "12613842",
+  "price": "$39.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -17950,6 +18255,7 @@
   "34184"],
   "source": "amazon.com books",
   "workcode": "23092308",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -17986,17 +18292,21 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["307.1"],
+    "code": ["307.12160113"],
     "wording": ["Communities",
+    "Planning",
     "Planning & Development",
     "Social sciences",
-    "Social sciences, sociology & anthropology"]
+    "Social sciences, sociology & anthropology",
+    "Specific kinds of communities",
+    "Urban communities"]
   },
   "lcc": {
     "code": "HT165.5 .G56"
   },
   "source": "amazon uk books",
   "workcode": "31081666",
+  "price": "$50 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.1",
@@ -18044,6 +18354,7 @@
   },
   "source": "amazon uk books",
   "workcode": "33141932",
+  "price": "$31.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -18091,6 +18402,7 @@
   },
   "source": "amazon uk books",
   "workcode": "29188287",
+  "price": "$27.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -18141,7 +18453,7 @@
     "Literature & rhetoric"]
   },
   "lcc": {
-    "code": "PZ7 .F963"
+    "code": "PZ7.1 .F86"
   },
   "series": ["It\u2019s Not a Fairy Tale"],
   "awards": ["Picture This Recommendation List"],
@@ -18151,6 +18463,7 @@
   "138448"],
   "source": "amazon.com books",
   "workcode": "19460215",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-11",
   "format": [{
     "code": "1.1.2",
@@ -18292,6 +18605,7 @@
   },
   "source": "amazon uk books",
   "workcode": "15578112",
+  "price": "$59.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -18342,10 +18656,11 @@
     "Computer science, knowledge & systems"]
   },
   "lcc": {
-    "code": "QA76 .A25"
+    "code": "QA76.9 .A25"
   },
   "source": "amazon uk books",
   "workcode": "30807206",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -18412,6 +18727,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "6238370",
+  "price": "$99.5 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.2",
@@ -18466,6 +18782,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "5046398",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -18509,24 +18826,25 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["306.362091821"],
-    "wording": ["Biography And History",
-    "Biography And History",
-    "Culture and institutions",
+    "code": ["306.3"],
+    "wording": ["Culture and institutions",
     "Economic institutions",
-    "Slavery",
     "Social sciences",
-    "Social sciences, sociology & anthropology",
-    "Systems of labor"]
+    "Social sciences, sociology & anthropology"]
   },
   "lcc": {
     "code": "HT975 .E48"
   },
-  "awards": ["Marginal Revolution Best Book of the Year"],
+  "awards": ["Marginal Revolution Best Book of the Year",
+  "PROSE Award"],
   "genre": ["Nonfiction",
-  "History"],
+  "General Nonfiction",
+  "History",
+  "Sociology"],
   "genre_id": ["20275895",
-  "1599"],
+  "1247",
+  "1599",
+  "5686"],
   "source": "amazon uk books",
   "workcode": "33422673",
   "entrydate": "2026-01-17",
@@ -18577,6 +18895,7 @@
   "subject": [["Dynamic meteorology"]],
   "source": "amazon uk books",
   "workcode": "384032",
+  "price": "$92.95 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.2",
@@ -18640,6 +18959,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "16520906",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -18701,6 +19021,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "28638766",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.2",
@@ -18754,10 +19075,11 @@
     "for personal computers"]
   },
   "lcc": {
-    "code": "QA76 .C153"
+    "code": "QA76.73 .C153"
   },
   "source": "amazon.com books",
   "workcode": "28812336",
+  "price": "$44.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -18900,14 +19222,18 @@
     "Psychology"]
   },
   "lcc": {
-    "code": "GV884 .R38 .R38"
+    "code": "GV884 .R38 .A3"
   },
   "awards": ["African American Booklist"],
   "genre": ["Nonfiction",
   "Biography & Memoir",
+  "Business",
+  "General Nonfiction",
   "Sports and Leisure"],
   "genre_id": ["20275895",
   "1240",
+  "20245",
+  "1247",
   "34184"],
   "source": "amazon.com books",
   "workcode": "33772212",
@@ -18973,6 +19299,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "18298896",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -19020,6 +19347,7 @@
   },
   "source": "amazon uk books",
   "workcode": "28341192",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -19073,6 +19401,7 @@
   },
   "source": "amazon uk books",
   "workcode": "27521270",
+  "price": "$24.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.2",
@@ -19130,6 +19459,7 @@
   },
   "source": "amazon uk books",
   "workcode": "25530867",
+  "price": "$69.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -19187,6 +19517,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "22386329",
+  "price": "$18.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.1",
@@ -19223,7 +19554,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["623.4511"],
+    "code": ["623.45119"],
     "wording": ["Engineering",
     "Explosives, Rockets, and Bombs",
     "Military and nautical engineering",
@@ -19233,13 +19564,17 @@
   "lcc": [],
   "awards": ["The Guardian Books of the Year"],
   "genre": ["Nonfiction",
+  "Biography & Memoir",
   "General Nonfiction",
   "History",
-  "Science & Nature"],
+  "Science & Nature",
+  "Technology"],
   "genre_id": ["20275895",
+  "1240",
   "1247",
   "1599",
-  "1457"],
+  "1457",
+  "17963"],
   "source": "amazon uk books",
   "workcode": "34192163",
   "entrydate": "2026-01-17",
@@ -19289,6 +19624,7 @@
   },
   "source": "amazon.com books",
   "workcode": "20478052",
+  "price": "$165 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.2",
@@ -19341,6 +19677,7 @@
   "1247"],
   "source": "amazon uk books",
   "workcode": "24582539",
+  "price": "$26.99 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.2",
@@ -19388,6 +19725,7 @@
   },
   "source": "amazon uk books",
   "workcode": "28095158",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-17",
   "format": [{
     "code": "1.1.2",
@@ -19442,6 +19780,7 @@
   },
   "source": "amazon uk books",
   "workcode": "27304983",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -19506,6 +19845,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "12670479",
+  "price": "$19 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -19554,6 +19894,7 @@
   "subject": [["Algebras, Linear"]],
   "source": "amazon.co.uk",
   "workcode": "175579",
+  "price": "$59.99 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -19672,6 +20013,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "25402704",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -19737,6 +20079,7 @@
   "1457"],
   "source": "Amazon.co.uk",
   "workcode": "15348",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -19808,6 +20151,7 @@
   "1247"],
   "source": "amazon uk books",
   "workcode": "29065532",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -19903,6 +20247,7 @@
   "1457"],
   "source": "Amazon.co.uk",
   "workcode": "125813",
+  "price": "$22 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -19957,6 +20302,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31081608",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -20018,10 +20364,11 @@
     "General Databases And Data Files"]
   },
   "lcc": {
-    "code": "QA76 .D3"
+    "code": "QA76.9 .D3"
   },
   "source": "amazon uk books",
   "workcode": "31274731",
+  "price": "$54.99 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -20075,6 +20422,7 @@
   },
   "source": "amazon.com books",
   "workcode": "1776671",
+  "price": "$23 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -20138,6 +20486,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "32537959",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -20248,6 +20597,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "14140737",
+  "price": "$24 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -20392,6 +20742,7 @@
   "5686"],
   "source": "Amazon.co.uk",
   "workcode": "12260",
+  "price": "$24 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -20446,6 +20797,7 @@
   },
   "source": "amazon.com books",
   "workcode": "15460757",
+  "price": "$55 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -20568,6 +20920,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "30205807",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -20616,6 +20969,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "2909712",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -20677,6 +21031,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "9823186",
+  "price": "$450 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -20752,6 +21107,7 @@
   "5686"],
   "source": "amazon.co.uk",
   "workcode": "11425111",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -20799,6 +21155,7 @@
   },
   "source": "amazon.com",
   "workcode": "11910946",
+  "price": "$219.99 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.2",
@@ -20857,6 +21214,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "49769",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -20908,10 +21266,11 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .C153 .I35"
+    "code": "QA76.73 .C153 .I35"
   },
   "source": "amazon.com books",
   "workcode": "28813782",
+  "price": "$69.99 (USD)",
   "entrydate": "2026-01-18",
   "format": [{
     "code": "1.1.1",
@@ -20956,10 +21315,11 @@
     "Social sciences--research"]
   },
   "lcc": {
-    "code": "H61.27 .L696"
+    "code": "H61.27 .L57"
   },
   "source": "amazon.com books",
   "workcode": "27578811",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -21006,6 +21366,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "394601",
+  "price": "$149 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -21067,6 +21428,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "21807072",
+  "price": "$25 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -21182,6 +21544,7 @@
   },
   "source": "Amazon.co.uk",
   "workcode": "1943752",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -21248,6 +21611,7 @@
   },
   "source": "amazon uk books",
   "workcode": "25398242",
+  "price": "$44.99 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -21302,6 +21666,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "11079178",
+  "price": "$85 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -21369,6 +21734,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "4984033",
+  "price": "$24 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -21441,6 +21807,7 @@
   "17963"],
   "source": "Amazon.co.uk",
   "workcode": "63517",
+  "price": "$14 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -21576,6 +21943,7 @@
     "Travel",
     "Antarctica"]
   },
+  "originaltitle": "Endurance: Shackleton's incredible voyage",
   "awards": ["1,000 Books to Read Before You Die Page-A-Day Calendar",
   "1000 Books to Read Before You Die",
   "Audie Award",
@@ -21595,6 +21963,7 @@
   "3578"],
   "source": "amazon.co.uk",
   "workcode": "886",
+  "price": "$14.95 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -21668,6 +22037,7 @@
   "1944"],
   "source": "amazon uk books",
   "workcode": "10831794",
+  "price": "$21 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -21711,7 +22081,7 @@
     "Social sciences"]
   },
   "lcc": {
-    "code": "HD9696 .A2 .D59"
+    "code": "HD9696.8 .A2 .D59"
   },
   "source": "amazon uk books",
   "workcode": "31492297",
@@ -21776,8 +22146,14 @@
   "The Economist Best Books",
   "The Wall Street Journal Best Books of the Year"],
   "genre": ["Nonfiction",
+  "General Nonfiction",
+  "Philosophy",
+  "Politics, Government, Law and Public Policy",
   "Sociology"],
   "genre_id": ["20275895",
+  "1247",
+  "66879",
+  "3805",
   "5686"],
   "source": "amazon.com books",
   "workcode": "33700253",
@@ -21833,6 +22209,7 @@
   "history"]],
   "source": "amazon.co.uk",
   "workcode": "339368",
+  "price": "$18.95 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -21916,6 +22293,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "267688",
+  "price": "$21 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -21970,6 +22348,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31914413",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -22034,6 +22413,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "14808134",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -22079,6 +22459,7 @@
   "subject": [["FORTH (Computer program language)"]],
   "source": "amazon.co.uk",
   "workcode": "249767",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -22334,6 +22715,7 @@
   "3578"],
   "source": "amazon uk books",
   "workcode": "134329",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1",
@@ -22395,6 +22777,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "11196909",
+  "price": "$14.95 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -22444,6 +22827,7 @@
   },
   "source": "amazon.com books",
   "workcode": "32527375",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -22491,6 +22875,7 @@
   },
   "source": "amazon.com books",
   "workcode": "30974900",
+  "price": "$23 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -22543,6 +22928,7 @@
   },
   "source": "amazon uk books",
   "workcode": "26603274",
+  "price": "$25.99 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -22585,10 +22971,11 @@
     "Technology"]
   },
   "lcc": {
-    "code": "R727.3 .B47"
+    "code": "R729.9 .B477 .L54"
   },
   "source": "amazon uk books",
   "workcode": "23196393",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.1",
@@ -22700,6 +23087,7 @@
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "31084965",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-19",
   "format": [{
     "code": "1.1.2",
@@ -22797,10 +23185,11 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .A43 .L668"
+    "code": "QA76.9 .A43 .L668"
   },
   "source": "amazon uk books",
   "workcode": "25402678",
+  "price": "$15.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -22898,6 +23287,7 @@
   ["Computer programming"]],
   "source": "Amazon.co.uk",
   "workcode": "3668",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -22951,6 +23341,7 @@
   },
   "source": "amazon uk books",
   "workcode": "23556057",
+  "price": "$18.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -22999,6 +23390,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "11164625",
+  "price": "$27.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -23054,6 +23446,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31550651",
+  "price": "$29 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -23107,6 +23500,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "11818468",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -23154,6 +23548,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31208389",
+  "price": "$39.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -23199,10 +23594,11 @@
     "standard subdivisions"]
   },
   "lcc": {
-    "code": "QA76.6 .H478"
+    "code": "QA76.6 .H476"
   },
   "source": "amazon.com books",
   "workcode": "26962934",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -23272,6 +23668,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "29616628",
+  "price": "$21.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -23326,6 +23723,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "4280462",
+  "price": "$69.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -23427,6 +23825,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "9125391",
+  "price": "$34.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -23483,7 +23882,7 @@
     "Social sciences"]
   },
   "lcc": {
-    "code": "HF1359 .K54"
+    "code": "HF1359 .K577"
   },
   "awards": ["Financial Times and Schroders Business Book of the Year",
   "Lionel Gelber Prize"],
@@ -23501,6 +23900,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "24162320",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -23548,6 +23948,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31083756",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -23628,6 +24029,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "13708",
+  "price": "$22 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -23727,10 +24129,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["502"],
-    "wording": ["Miscellany",
-    "Natural sciences & mathematics",
-    "Science"]
+    "code": ["303.48"],
+    "wording": ["Causes of change",
+    "Social change",
+    "Social processes",
+    "Social sciences",
+    "Social sciences, sociology & anthropology"]
   },
   "lcc": {
     "code": "Q175.5 .S578"
@@ -23795,6 +24199,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31876892",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -23853,6 +24258,7 @@
   "Personal narratives"]],
   "source": "amazon.co.uk",
   "workcode": "2628916",
+  "price": "$21.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -23916,6 +24322,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "32821079",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -23959,10 +24366,11 @@
     "Systems programming and programs"]
   },
   "lcc": {
-    "code": "QA76 .O63"
+    "code": "QA76.76 .O63"
   },
   "source": "amazon uk books",
   "workcode": "27499583",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -24011,6 +24419,7 @@
   },
   "source": "amazon uk books",
   "workcode": "7573845",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -24063,8 +24472,20 @@
   "lcc": {
     "code": "RA781.5 .L56"
   },
+  "awards": ["George Rosen Prize"],
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "History",
+  "Science & Nature",
+  "Sociology"],
+  "genre_id": ["20275895",
+  "1247",
+  "1599",
+  "1457",
+  "5686"],
   "source": "amazon.com books",
   "workcode": "31086084",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -24184,6 +24605,7 @@
   "631218"],
   "source": "amazon.com books",
   "workcode": "32538007",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -24241,6 +24663,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "27619413",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -24337,6 +24760,7 @@
   "5686"],
   "source": "amazon.co.uk",
   "workcode": "3735",
+  "price": "$14.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -24387,26 +24811,32 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["330.1"],
+    "code": ["338.064"],
     "wording": ["Economics",
-    "Economics",
-    "Social sciences",
-    "Theory"]
+    "Effect Of Innovation",
+    "Efficiency",
+    "Production",
+    "Social sciences"]
   },
   "lcc": {
-    "code": "HC79 .T4 .H63"
+    "code": "HC79 .T4 .H628"
   },
   "awards": ["Hayek Book Prize"],
   "genre": ["Nonfiction",
   "Business",
   "Economics",
-  "History"],
+  "General Nonfiction",
+  "History",
+  "Science & Nature"],
   "genre_id": ["20275895",
   "20245",
   "7973",
-  "1599"],
+  "1247",
+  "1599",
+  "1457"],
   "source": "amazon.com books",
   "workcode": "32175884",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -24456,6 +24886,7 @@
   },
   "source": "Amazon.com",
   "workcode": "10505",
+  "price": "$44.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -24533,6 +24964,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "1120185",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -24627,6 +25059,7 @@
   "281"],
   "source": "Amazon.co.uk",
   "workcode": "7479",
+  "price": "$8.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -24685,6 +25118,7 @@
   },
   "source": "amazon uk books",
   "workcode": "27091348",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -24735,7 +25169,7 @@
     "Literature & rhetoric"]
   },
   "lcc": {
-    "code": "PZ7 .F95"
+    "code": "PZ7.1 .F95 .I"
   },
   "series": ["It\u2019s Not a Fairy Tale"],
   "awards": ["Children's Favorites Awards",
@@ -24746,6 +25180,7 @@
   "138448"],
   "source": "amazon uk books",
   "workcode": "22758092",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -24873,6 +25308,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "674909",
+  "price": "$20.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -24932,6 +25368,7 @@
   },
   "source": "amazon uk books",
   "workcode": "45844",
+  "price": "$89.99 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -25001,6 +25438,7 @@
   "3578"],
   "source": "amazon uk books",
   "workcode": "23103722",
+  "price": "$19.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -25047,6 +25485,7 @@
   },
   "source": "amazon uk books",
   "workcode": "20723392",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -25113,6 +25552,7 @@
   "5686"],
   "source": "amazon uk books",
   "workcode": "19591935",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -25235,6 +25675,7 @@
   },
   "source": "amazon uk books",
   "workcode": "30103159",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -25286,6 +25727,7 @@
   },
   "source": "amazon.co.uk books",
   "workcode": "14905607",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -25340,6 +25782,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "383033",
+  "price": "$20 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.1",
@@ -25408,6 +25851,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "9936694",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-27",
   "format": [{
     "code": "1.1.2",
@@ -25512,6 +25956,7 @@
   },
   "source": "amazon uk books",
   "workcode": "9500204",
+  "price": "$69.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -25568,6 +26013,7 @@
   "genre_id": ["20275895"],
   "source": "amazon.co.uk",
   "workcode": "3362961",
+  "price": "$13.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -25655,9 +26101,21 @@
   "lcc": [],
   "awards": ["FEE's Five Best Economic Books of the Year"],
   "genre": ["Nonfiction",
-  "Philosophy"],
+  "Economics",
+  "General Nonfiction",
+  "Philosophy",
+  "Politics, Government, Law and Public Policy",
+  "Science & Nature",
+  "Sexuality and Gender Studies",
+  "Sociology"],
   "genre_id": ["20275895",
-  "66879"],
+  "7973",
+  "1247",
+  "66879",
+  "3805",
+  "1457",
+  "6880",
+  "5686"],
   "source": "amazon.com books",
   "workcode": "33144407",
   "entrydate": "2026-01-28",
@@ -25710,7 +26168,7 @@
     "Social sciences"]
   },
   "lcc": {
-    "code": "HC427 .A575"
+    "code": "HC427.95 .A575"
   },
   "awards": ["Financial Times and Schroders Business Book of the Year",
   "The Year's Geopolitical Reading List"],
@@ -25883,6 +26341,7 @@
   },
   "source": "amazon.com books",
   "workcode": "4073029",
+  "price": "$74.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -25934,7 +26393,7 @@
     "Systems Analysis And Design"]
   },
   "lcc": {
-    "code": "QA76 .D47 .O988"
+    "code": "QA76.76 .D47 .O988"
   },
   "source": "amazon uk books",
   "workcode": "21884001",
@@ -25988,6 +26447,7 @@
   },
   "source": "amazon uk books",
   "workcode": "29316867",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -26046,6 +26506,7 @@
   "3805"],
   "source": "amazon.co.uk books",
   "workcode": "7524825",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -26101,6 +26562,7 @@
   },
   "source": "Amazon.com",
   "workcode": "196706",
+  "price": "$22.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -26152,10 +26614,11 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .R87 .B67"
+    "code": "QA76.73 .R87 .B67"
   },
   "source": "amazon uk books",
   "workcode": "29058967",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -26232,6 +26695,7 @@
   "1599"],
   "source": "Amazon.co.uk",
   "workcode": "163239",
+  "price": "$14.22 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -26377,6 +26841,7 @@
   "3805"],
   "source": "amazon.co.uk",
   "workcode": "2941338",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -26422,6 +26887,7 @@
   "lcc": [],
   "source": "amazon.com books",
   "workcode": "30835848",
+  "price": "$14 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -26470,6 +26936,7 @@
   },
   "source": "amazon.com books",
   "workcode": "20238135",
+  "price": "$16.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -26519,6 +26986,7 @@
   },
   "source": "amazon.com books",
   "workcode": "32235827",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -26587,6 +27055,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "29611947",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -26635,6 +27104,7 @@
   },
   "source": "amazon uk books",
   "workcode": "13359158",
+  "price": "$16.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -26684,6 +27154,7 @@
   },
   "source": "amazon uk books",
   "workcode": "29413636",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -26749,6 +27220,7 @@
   "5686"],
   "source": "amazon uk books",
   "workcode": "21040977",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -26796,6 +27268,7 @@
   },
   "source": "amazon.com books",
   "workcode": "22422020",
+  "price": "$14.5 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -26945,10 +27418,11 @@
     "United States"]
   },
   "lcc": {
-    "code": "JC573 .U6 .A586"
+    "code": "JC573.2 .U6 .A58"
   },
   "source": "amazon uk books",
   "workcode": "25368825",
+  "price": "$32.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27010,6 +27484,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "22240288",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27076,6 +27551,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "32534084",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27124,6 +27600,7 @@
   },
   "source": "amazon uk books",
   "workcode": "29373466",
+  "price": "$21.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -27179,6 +27656,7 @@
   },
   "source": "amazon uk books",
   "workcode": "27219352",
+  "price": "$45 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27226,6 +27704,7 @@
   },
   "source": "amazon uk books",
   "workcode": "32885849",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27302,6 +27781,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "1966",
+  "price": "$21.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -27360,10 +27840,11 @@
     "Track events, running; General track and field"]
   },
   "lcc": {
-    "code": "GV199 .J67"
+    "code": "GV199.92 .J67 .A313"
   },
   "source": "amazon.com books",
   "workcode": "25330051",
+  "price": "$27.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27405,7 +27886,7 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .C15"
+    "code": "QA76.73 .C15"
   },
   "source": "amazon.com books",
   "workcode": "34360950",
@@ -27464,6 +27945,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31890994",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27577,6 +28059,7 @@
   "34184"],
   "source": "amazon.co.uk",
   "workcode": "8159412",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -27648,6 +28131,7 @@
   "3805"],
   "source": "amazon.com books",
   "workcode": "31573667",
+  "price": "$33 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27695,6 +28179,7 @@
   },
   "source": "amazon uk books",
   "workcode": "25604215",
+  "price": "$19.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -27731,12 +28216,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["332.492"],
-    "wording": ["Biography And History",
-    "Economics",
-    "Financial economics",
-    "Money",
-    "Social sciences"]
+    "code": ["305.5"],
+    "wording": ["Groups of people",
+    "People by social and economic levels",
+    "Social sciences",
+    "Social sciences, sociology & anthropology"]
   },
   "lcc": {
     "code": "HC79 .W4 .G65"
@@ -27877,6 +28361,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "270499",
+  "price": "$6.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -27932,6 +28417,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "12615728",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -27996,6 +28482,7 @@
   "Corrupt practices"]],
   "source": "amazon uk books",
   "workcode": "598625",
+  "price": "$23 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -28059,6 +28546,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "32409037",
+  "price": "$27.5 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -28109,6 +28597,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31071459",
+  "price": "$32.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -28221,6 +28710,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "450094",
+  "price": "$32.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -28273,10 +28763,11 @@
     "Programming languages"]
   },
   "lcc": {
-    "code": "QA76 .C153"
+    "code": "QA76.73 .C153"
   },
   "source": "amazon uk books",
   "workcode": "23050811",
+  "price": "$49.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -28386,6 +28877,7 @@
   "1247"],
   "source": "amazon uk books",
   "workcode": "16881287",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -28505,6 +28997,7 @@
   },
   "source": "amazon.com books",
   "workcode": "25289909",
+  "price": "$19.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -28574,6 +29067,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "50752",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -28637,6 +29131,7 @@
   "To 1800"]],
   "source": "Amazon.com",
   "workcode": "213269",
+  "price": "$11 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -28713,6 +29208,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "23758",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -28785,6 +29281,7 @@
   "5686"],
   "source": "amazon uk books",
   "workcode": "1976",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -28846,6 +29343,7 @@
   },
   "source": "amazon uk books",
   "workcode": "26948485",
+  "price": "$25.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -28910,6 +29408,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "30450139",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -28946,14 +29445,16 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["339.4"],
-    "wording": ["Economics",
-    "Factors Impacting GDP",
-    "Macroeconomics and related topics",
-    "Social sciences"]
+    "code": ["330.122"],
+    "wording": ["Capitalism",
+    "Economics",
+    "Economics",
+    "Social sciences",
+    "Systems",
+    "Theory"]
   },
   "lcc": {
-    "code": "HC59 .P6 .Z58"
+    "code": "HC59.72 .P6 .Z58"
   },
   "awards": ["Hayek Book Prize"],
   "genre": ["Nonfiction",
@@ -29029,6 +29530,7 @@
   "genre_id": ["20275895"],
   "source": "amazon.co.uk",
   "workcode": "1032483",
+  "price": "$50.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -29083,6 +29585,7 @@
   },
   "source": "amazon.com books",
   "workcode": "19175159",
+  "price": "$25.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -29159,6 +29662,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "3328",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -29215,6 +29719,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "15336968",
+  "price": "$34.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -29262,6 +29767,7 @@
   },
   "source": "amazon.com books",
   "workcode": "32409040",
+  "price": "$25 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -29309,6 +29815,7 @@
   },
   "source": "amazon uk books",
   "workcode": "9697447",
+  "price": "$26.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -29444,6 +29951,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "7589273",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -29570,6 +30078,7 @@
   },
   "source": "amazon uk books",
   "workcode": "30252706",
+  "price": "$25.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -29630,6 +30139,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "247456",
+  "price": "$37 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -29684,6 +30194,7 @@
   },
   "source": "amazon.com books",
   "workcode": "18910628",
+  "price": "$19.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -29784,14 +30295,10 @@
   "The Guardian Book of the Day"],
   "genre": ["Nonfiction",
   "General Nonfiction",
-  "Politics, Government, Law and Public Policy",
-  "Sexuality and Gender Studies",
-  "Sociology"],
+  "Sexuality and Gender Studies"],
   "genre_id": ["20275895",
   "1247",
-  "3805",
-  "6880",
-  "5686"],
+  "6880"],
   "source": "amazon uk books",
   "workcode": "28991777",
   "entrydate": "2026-01-28",
@@ -29844,6 +30351,7 @@
   },
   "source": "amazon.com books",
   "workcode": "30854800",
+  "price": "$22.5 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -29904,6 +30412,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "19885467",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -29958,6 +30467,7 @@
   },
   "source": "amazon.com books",
   "workcode": "31086028",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -30012,6 +30522,7 @@
   "1247"],
   "source": "amazon uk books",
   "workcode": "24971498",
+  "price": "$27.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -30060,6 +30571,7 @@
   },
   "source": "amazon uk books",
   "workcode": "23739529",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -30122,6 +30634,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "17586362",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -30183,6 +30696,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "31477553",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -30219,10 +30733,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["332.0000"],
+    "code": ["332.41"],
     "wording": ["Economics",
     "Financial economics",
-    "Social sciences"]
+    "Money",
+    "Social sciences",
+    "Value of money - deflation, inflation and price stability"]
   },
   "lcc": {
     "code": "HG229 .W37"
@@ -30240,6 +30756,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "32285213",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -30298,6 +30815,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "13827379",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -30357,6 +30875,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "9974705",
+  "price": "$25 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -30413,15 +30932,12 @@
   },
   "awards": ["The Year's Geopolitical Reading List"],
   "genre": ["Nonfiction",
-  "General Nonfiction",
-  "History",
   "Technology"],
   "genre_id": ["20275895",
-  "1247",
-  "1599",
   "17963"],
   "source": "amazon uk books",
   "workcode": "22236908",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.1",
@@ -30471,6 +30987,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31748211",
+  "price": "$29 (USD)",
   "entrydate": "2026-01-28",
   "format": [{
     "code": "1.1.2",
@@ -30540,6 +31057,7 @@
   "17963"],
   "source": "amazon.com books",
   "workcode": "28431929",
+  "price": "$19 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -30696,6 +31214,7 @@
   "lcc": [],
   "source": "amazon.com",
   "workcode": "1778367",
+  "price": "$25.95 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -30743,6 +31262,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31086030",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -30855,11 +31375,14 @@
   "Our Favourite Books of the Year",
   "The Guardian Books of the Year"],
   "genre": ["Fiction",
-  "Horror"],
+  "Horror",
+  "Science Fiction"],
   "genre_id": ["17160326",
-  "188"],
+  "188",
+  "281"],
   "source": "amazon.com books",
   "workcode": "34592252",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -30924,6 +31447,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "11220449",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -30971,6 +31495,7 @@
   },
   "source": "amazon.com books",
   "workcode": "23458161",
+  "price": "$27 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31018,6 +31543,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "8322551",
+  "price": "$39.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31072,10 +31598,11 @@
     "Types Of Investments And Other Topics"]
   },
   "lcc": {
-    "code": "HG6041 .P667"
+    "code": "HG6041 .P67"
   },
   "source": "amazon.com books",
   "workcode": "31081537",
+  "price": "$27.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31139,6 +31666,7 @@
   },
   "source": "Amazon.co.uk",
   "workcode": "288436",
+  "price": "$19.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -31192,7 +31720,7 @@
     "Social sciences, sociology & anthropology"]
   },
   "lcc": {
-    "code": "Q335"
+    "code": "Q335 .H33"
   },
   "awards": ["Marginal Revolution Best Book of the Year",
   "McKinsey's Annual Book Recommendations",
@@ -31200,10 +31728,12 @@
   "genre": ["Nonfiction",
   "Biography & Memoir",
   "Business",
+  "General Nonfiction",
   "Technology"],
   "genre_id": ["20275895",
   "1240",
   "20245",
+  "1247",
   "17963"],
   "source": "amazon uk books",
   "workcode": "33917647",
@@ -31254,6 +31784,7 @@
   },
   "source": "amazon uk books",
   "workcode": "32205471",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31329,6 +31860,7 @@
   "3805"],
   "source": "amazon.co.uk",
   "workcode": "72578",
+  "price": "$19.95 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31390,6 +31922,7 @@
   ["Running races"]],
   "source": "amazon.co.uk",
   "workcode": "125588",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -31473,6 +32006,7 @@
   "5686"],
   "source": "Amazon.co.uk",
   "workcode": "1994",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -31597,6 +32131,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "10990857",
+  "price": "$22.95 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31661,6 +32196,7 @@
   },
   "source": "amazon.com books",
   "workcode": "30898106",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31711,6 +32247,7 @@
   "Barnes & Noble Best Books of the Year",
   "Books Scientific American Recommends",
   "British Audio Awards",
+  "British Book Awards",
   "Chicago Public Library Best of the Best: Adults",
   "Darien Library's Best Books of the Year",
   "Denver Public Library Staff Picks for Adults",
@@ -31843,10 +32380,11 @@
     "standard subdivisions / Ethnic and national groups with ethnic origins from more than one continent, of European descent"]
   },
   "lcc": {
-    "code": "HN90 .S6 .M33"
+    "code": "E185.61 .M123"
   },
   "source": "amazon uk books",
   "workcode": "29890307",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31894,6 +32432,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31785456",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -31947,6 +32486,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "404490",
+  "price": "$21 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -32013,6 +32553,7 @@
   "5686"],
   "source": "amazon uk books",
   "workcode": "13616057",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -32060,6 +32601,7 @@
   },
   "source": "amazon.com books",
   "workcode": "25515411",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -32107,6 +32649,7 @@
   },
   "source": "amazon uk books",
   "workcode": "32629967",
+  "price": "$32.99 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -32154,6 +32697,7 @@
   },
   "source": "amazon.com all media",
   "workcode": "25886754",
+  "price": "$26 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -32203,6 +32747,7 @@
   },
   "source": "amazon.com books",
   "workcode": "32333837",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.2",
@@ -32250,6 +32795,7 @@
   },
   "source": "amazon.co.uk books",
   "workcode": "15922762",
+  "price": "$39.95 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -32297,6 +32843,7 @@
   },
   "source": "amazon uk books",
   "workcode": "15903752",
+  "price": "$23.78 (USD)",
   "entrydate": "2026-01-29",
   "format": [{
     "code": "1.1.1",
@@ -32407,6 +32954,7 @@
   "lcc": [],
   "source": "amazon uk books",
   "workcode": "31624029",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.2",
@@ -32451,6 +32999,7 @@
   "lcc": [],
   "source": "amazon.co.uk",
   "workcode": "12030415",
+  "price": "$2.99 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.3",
@@ -32611,6 +33160,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "187711",
+  "price": "$25 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.1",
@@ -32698,6 +33248,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "11559588",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.1",
@@ -32745,6 +33296,7 @@
   },
   "source": "amazon uk books",
   "workcode": "25114441",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.2",
@@ -32791,6 +33343,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "6359453",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.2",
@@ -32845,6 +33398,7 @@
   },
   "source": "amazon uk books",
   "workcode": "23807794",
+  "price": "$27 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.2",
@@ -32881,17 +33435,20 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["155.2"],
+    "code": ["155.232"],
     "wording": ["Differential and developmental psychology",
     "Individual Psychology",
+    "Particular Traits",
     "Philosophy & psychology",
-    "Psychology"]
+    "Psychology",
+    "Traits"]
   },
   "lcc": {
     "code": "BF698.35 .D48"
   },
   "source": "amazon uk books",
   "workcode": "27929795",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.2",
@@ -32951,6 +33508,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "191859",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.1",
@@ -33009,13 +33567,16 @@
   "genre": ["Nonfiction",
   "General Nonfiction",
   "History",
+  "Politics, Government, Law and Public Policy",
   "Religion & Spirituality"],
   "genre_id": ["20275895",
   "1247",
   "1599",
+  "3805",
   "1944"],
   "source": "amazon uk books",
   "workcode": "19529237",
+  "price": "$20 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.1",
@@ -33050,6 +33611,7 @@
   "lcc": [],
   "source": "amazon.com",
   "workcode": "9926808",
+  "price": "$12.95 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.1",
@@ -33109,6 +33671,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "9102909",
+  "price": "$14 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.1",
@@ -33157,6 +33720,7 @@
   },
   "source": "amazon uk books",
   "workcode": "24777504",
+  "price": "$16.99 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.1",
@@ -33249,6 +33813,7 @@
   "281"],
   "source": "Amazon.co.uk",
   "workcode": "1000167",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-30",
   "format": [{
     "code": "1.1.1",
@@ -33323,6 +33888,7 @@
   },
   "source": "amazon uk books",
   "workcode": "67355",
+  "price": "$25 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -33385,6 +33951,7 @@
   "Juvenile literature"]],
   "source": "amazon uk books",
   "workcode": "159267",
+  "price": "$25 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -33431,6 +33998,7 @@
   },
   "source": "amazon.com books",
   "workcode": "24501719",
+  "price": "$19.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -33547,6 +34115,7 @@
   "5686"],
   "source": "amazon uk books",
   "workcode": "26764956",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -33594,6 +34163,7 @@
   },
   "source": "amazon uk books",
   "workcode": "19982533",
+  "price": "$34.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -33706,6 +34276,7 @@
   },
   "source": "amazon uk books",
   "workcode": "26102052",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -33755,6 +34326,7 @@
   },
   "source": "amazon uk books",
   "workcode": "18051764",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -33828,6 +34400,7 @@
   "5686"],
   "source": "amazon uk books",
   "workcode": "17996193",
+  "price": "$16.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -33888,6 +34461,7 @@
   "34184"],
   "source": "amazon.co.uk",
   "workcode": "14091068",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -34015,6 +34589,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "10457746",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -34061,6 +34636,7 @@
   },
   "source": "amazon uk books",
   "workcode": "22643771",
+  "price": "$27.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -34134,6 +34710,7 @@
   "34184"],
   "source": "amazon uk books",
   "workcode": "1542907",
+  "price": "$13.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -34242,6 +34819,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "8923629",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -34328,6 +34906,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31525983",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -34535,6 +35114,7 @@
   },
   "source": "amazon uk books",
   "workcode": "31085150",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -34609,6 +35189,7 @@
   "17963"],
   "source": "Amazon.co.uk",
   "workcode": "7643",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -34669,9 +35250,11 @@
   "The Best Books: Book Recommendations from the Multnomah County Library",
   "The Guardian Book of the Day"],
   "genre": ["Nonfiction",
-  "General Nonfiction"],
+  "General Nonfiction",
+  "History"],
   "genre_id": ["20275895",
-  "1247"],
+  "1247",
+  "1599"],
   "source": "amazon uk books",
   "workcode": "26024458",
   "entrydate": "2026-01-31",
@@ -34728,6 +35311,7 @@
   },
   "source": "amazon uk books",
   "workcode": "26920432",
+  "price": "$24.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -34883,6 +35467,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "26797047",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -34925,7 +35510,7 @@
     "Social sciences, sociology & anthropology"]
   },
   "lcc": {
-    "code": "HM753"
+    "code": "HM753 .M68"
   },
   "awards": ["Non-Obvious Book Award",
   "The Economist Best Books"],
@@ -34992,6 +35577,7 @@
   },
   "source": "amazon uk books",
   "workcode": "20883508",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -35058,6 +35644,7 @@
   "1457"],
   "source": "Amazon.co.uk",
   "workcode": "297264",
+  "price": "$19.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -35112,6 +35699,7 @@
   },
   "source": "amazon.co.uk books",
   "workcode": "15081511",
+  "price": "$27.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -35183,6 +35771,7 @@
   "1599"],
   "source": "amazon uk books",
   "workcode": "27637",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -35236,6 +35825,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "14517958",
+  "price": "$27.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -35294,6 +35884,7 @@
   "1457"],
   "source": "amazon uk books",
   "workcode": "18405003",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -35381,6 +35972,7 @@
   "1457"],
   "source": "Amazon.co.uk",
   "workcode": "504173",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -35450,6 +36042,7 @@
   "5686"],
   "source": "amazon.co.uk",
   "workcode": "5394345",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -35503,6 +36096,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "1440476",
+  "price": "$15 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.3",
@@ -35558,6 +36152,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "11128254",
+  "price": "$20 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -35619,6 +36214,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "18603640",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -35662,7 +36258,7 @@
     "Statistical Mathematics"]
   },
   "lcc": {
-    "code": "QA276 .R3"
+    "code": "QA276.45 .R3"
   },
   "source": "amazon.com books",
   "workcode": "31249536",
@@ -35866,6 +36462,7 @@
   "Biography"]],
   "source": "amazon.com books",
   "workcode": "1499446",
+  "price": "$19.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -35915,6 +36512,7 @@
   },
   "source": "amazon.co.uk books",
   "workcode": "15643344",
+  "price": "$75.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -36023,6 +36621,7 @@
   "17963"],
   "source": "Amazon.co.uk",
   "workcode": "58840",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36081,6 +36680,7 @@
   "genre_id": ["20275895"],
   "source": "amazon.co.uk",
   "workcode": "8640738",
+  "price": "$17.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36150,6 +36750,7 @@
   "3805"],
   "source": "amazon.co.uk",
   "workcode": "9823276",
+  "price": "$16.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36206,6 +36807,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "11003162",
+  "price": "$24.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -36259,6 +36861,7 @@
   "lcc": [],
   "source": "amazon uk books",
   "workcode": "27286278",
+  "price": "$11.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36349,6 +36952,7 @@
   "34184"],
   "source": "Amazon.co.uk",
   "workcode": "7676",
+  "price": "$15.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36403,6 +37007,7 @@
   },
   "source": "amazon.com books, music and movies",
   "workcode": "12307176",
+  "price": "$26.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -36476,6 +37081,7 @@
   "17963"],
   "source": "amazon uk books",
   "workcode": "17437275",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36536,6 +37142,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "4214814",
+  "price": "$17 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36602,6 +37209,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "11753940",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36660,6 +37268,7 @@
   "17963"],
   "source": "amazon.co.uk",
   "workcode": "14589936",
+  "price": "$29.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -36731,6 +37340,7 @@
   "1247"],
   "source": "amazon.co.uk",
   "workcode": "27247",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36791,6 +37401,7 @@
   "1247"],
   "source": "amazon.com",
   "workcode": "9529471",
+  "price": "$25.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -36844,6 +37455,7 @@
   },
   "source": "amazon.com books",
   "workcode": "20781230",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36899,7 +37511,8 @@
     "code": "HC106.83"
   },
   "originaltitle": "The big short",
-  "awards": ["Christian Science Monitor Best Book",
+  "awards": ["Academy Award",
+  "Christian Science Monitor Best Book",
   "Financial Times and Schroders Business Book of the Year",
   "Gerald Loeb Award for Distinguished Business and Financial Journalism",
   "Globe and Mail Top 100 Book",
@@ -36926,6 +37539,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "8488263",
+  "price": "$15.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -36969,7 +37583,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["977.01092"],
+    "code": ["977.01"],
     "wording": ["History & geography",
     "History of North America",
     "North central United States"]
@@ -37010,10 +37624,11 @@
   "awards": ["Americanism Award",
   "Friends of American Writers Award",
   "Ohio Book Award"],
-  "genre": ["History"],
-  "genre_id": ["1599"],
+  "genre": ["No Genre"],
+  "genre_id": ["10037570"],
   "source": "amazon uk books",
   "workcode": "340868",
+  "price": "$15 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37105,6 +37720,7 @@
   "genre_id": ["1599"],
   "source": "amazon.co.uk",
   "workcode": "340872",
+  "price": "$15 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37158,10 +37774,11 @@
   "subject": [["Pontiac's Conspiracy, 1763-1765"]],
   "series": ["The Winning of America Series"],
   "awards": ["Americanism Award"],
-  "genre": ["No Genre"],
-  "genre_id": ["10037570"],
+  "genre": ["History"],
+  "genre_id": ["1599"],
   "source": "amazon.co.uk",
   "workcode": "511738",
+  "price": "$7.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37227,6 +37844,7 @@
   "genre_id": ["1599"],
   "source": "amazon.co.uk",
   "workcode": "511814",
+  "price": "$7.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37358,6 +37976,7 @@
   "genre_id": ["1599"],
   "source": "amazon.co.uk",
   "workcode": "950496",
+  "price": "$7.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37430,6 +38049,7 @@
   "34184"],
   "source": "amazon uk books",
   "workcode": "110578",
+  "price": "$15 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37472,8 +38092,9 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["658"],
-    "wording": ["General management",
+    "code": ["658.4"],
+    "wording": ["Executive",
+    "General management",
     "Management & public relations",
     "Technology"]
   },
@@ -37503,6 +38124,7 @@
   "17963"],
   "source": "amazon.com books",
   "workcode": "203206",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37557,6 +38179,7 @@
   "subject": [["Database management"]],
   "source": "amazon.co.uk",
   "workcode": "610458",
+  "price": "$74.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37606,7 +38229,9 @@
   "language_codeA": ["eng"],
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
-  "lcc": [],
+  "lcc": {
+    "code": "QA276.12 .C485"
+  },
   "source": "amazon.com books",
   "workcode": "34400861",
   "entrydate": "2026-01-31",
@@ -37664,6 +38289,7 @@
   },
   "source": "amazon.com",
   "workcode": "15924946",
+  "price": "$27.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -37717,6 +38343,7 @@
   "3805"],
   "source": "amazon.co.uk",
   "workcode": "11297673",
+  "price": "$28.99 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -37788,6 +38415,7 @@
   "1944"],
   "source": "amazon.co.uk",
   "workcode": "865922",
+  "price": "$27.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -37847,6 +38475,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "7010468",
+  "price": "$16 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37924,6 +38553,7 @@
   "3805"],
   "source": "amazon uk books",
   "workcode": "172321",
+  "price": "$16.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -37992,6 +38622,7 @@
   "3805"],
   "source": "amazon.co.uk",
   "workcode": "3641537",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38049,6 +38680,7 @@
   },
   "source": "amazon.com",
   "workcode": "18235592",
+  "price": "$23 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38112,6 +38744,7 @@
   "3805"],
   "source": "amazon.co.uk",
   "workcode": "12925440",
+  "price": "$26.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38160,6 +38793,7 @@
   },
   "source": "amazon uk books",
   "workcode": "14381163",
+  "price": "$27.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38208,6 +38842,7 @@
   },
   "source": "amazon uk books",
   "workcode": "8698887",
+  "price": "$25 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38275,6 +38910,7 @@
   "3805"],
   "source": "amazon.co.uk",
   "workcode": "7789",
+  "price": "$25.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38367,6 +39003,7 @@
   "3805"],
   "source": "Amazon.co.uk",
   "workcode": "40590",
+  "price": "$26.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38421,6 +39058,7 @@
   },
   "source": "amazon uk books",
   "workcode": "32129305",
+  "price": "$35 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38482,6 +39120,7 @@
   "34184"],
   "source": "amazon.co.uk+books",
   "workcode": "14978920",
+  "price": "$20 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -38567,6 +39206,7 @@
   "34184"],
   "source": "amazon.co.uk",
   "workcode": "13306446",
+  "price": "$18 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -38670,6 +39310,7 @@
   },
   "source": "amazon.com",
   "workcode": "19033733",
+  "price": "$29.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -38706,14 +39347,17 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["973.93"],
-    "wording": ["1901-",
-    "2001-",
-    "History & geography",
-    "History of North America",
+    "code": ["320.973"],
+    "wording": ["North America",
+    "Political science",
+    "Political science (Politics and government)",
+    "Political situation and conditions",
+    "Social sciences",
     "United States"]
   },
-  "lcc": [],
+  "lcc": {
+    "code": "E901.1 .K46 .A3"
+  },
   "source": "amazon.com books",
   "workcode": "34950669",
   "entrydate": "2026-01-31",
@@ -38787,6 +39431,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "504046",
+  "price": "$12.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -38865,6 +39510,7 @@
   "1599"],
   "source": "amazon.co.uk books",
   "workcode": "401304",
+  "price": "$12.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -38943,6 +39589,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "194180",
+  "price": "$12.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -39021,6 +39668,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "2182932",
+  "price": "$12.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -39064,12 +39712,11 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["338.95106"],
+    "code": ["327.51073"],
     "wording": ["Asia",
     "China & Korea",
-    "Economic Development And Growth",
-    "Economics",
-    "Production",
+    "International Relations",
+    "Political science",
     "Social sciences"]
   },
   "lcc": {
@@ -39084,16 +39731,8 @@
   "NZ Listener 100 Best Books of the Year",
   "New Yorker Best Books of the Year",
   "Of Related Interest: Recent books of interest to the foreign affairs community"],
-  "genre": ["Nonfiction",
-  "Economics",
-  "General Nonfiction",
-  "History",
-  "Recent Nonfiction"],
-  "genre_id": ["20275895",
-  "7973",
-  "1247",
-  "1599",
-  "8278606"],
+  "genre": ["Nonfiction"],
+  "genre_id": ["20275895"],
   "source": "amazon uk books",
   "workcode": "33747533",
   "entrydate": "2026-01-31",
@@ -39161,6 +39800,7 @@
   "5686"],
   "source": "amazon uk books",
   "workcode": "27017546",
+  "price": "$28 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -39208,6 +39848,7 @@
   },
   "source": "amazon uk books",
   "workcode": "32402764",
+  "price": "$32 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -39261,6 +39902,7 @@
   },
   "source": "amazon uk books",
   "workcode": "28233360",
+  "price": "$30 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -39315,6 +39957,7 @@
   },
   "source": "amazon.com",
   "workcode": "15090903",
+  "price": "$28.95 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -39351,11 +39994,12 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["302.2"],
-    "wording": ["Communication",
+    "code": ["302.12"],
+    "wording": ["General topics of social interaction",
     "Social interaction",
     "Social sciences",
-    "Social sciences, sociology & anthropology"]
+    "Social sciences, sociology & anthropology",
+    "Social understanding"]
   },
   "lcc": {
     "code": "HM651 .P56"
@@ -39368,11 +40012,13 @@
   "The Economist Best Books",
   "The Guardian Book of the Day"],
   "genre": ["Nonfiction",
+  "Economics",
   "General Nonfiction",
   "Science & Nature",
   "Sociology",
   "Recent Nonfiction"],
   "genre_id": ["20275895",
+  "7973",
   "1247",
   "1457",
   "5686",
@@ -39427,11 +40073,14 @@
   "awards": ["Amazon.com Best Books",
   "Kirkus Reviews Best Book of the Year"],
   "genre": ["Nonfiction",
+  "General Nonfiction",
   "Technology"],
   "genre_id": ["20275895",
+  "1247",
   "17963"],
   "source": "amazon uk all media",
   "workcode": "12946073",
+  "price": "$26 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.2",
@@ -39520,6 +40169,7 @@
   "History"]],
   "source": "amazon.co.uk",
   "workcode": "84056",
+  "price": "$19 (USD)",
   "entrydate": "2026-01-31",
   "format": [{
     "code": "1.1.1",
@@ -39570,7 +40220,7 @@
   "originallanguage": ["English"],
   "originallanguage_codeA": ["eng"],
   "ddc": {
-    "code": ["006.3"],
+    "code": ["006.309052"],
     "wording": ["Artificial Intelligence",
     "Computer science, information & general works",
     "Computer science, knowledge & systems",
@@ -39584,11 +40234,13 @@
   "genre": ["Nonfiction",
   "Business",
   "General Nonfiction",
+  "History",
   "Technology",
   "Recent Nonfiction"],
   "genre_id": ["20275895",
   "20245",
   "1247",
+  "1599",
   "17963",
   "8278606"],
   "source": "amazon.com books",
@@ -39691,6 +40343,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "14219496",
+  "price": "$26.95 (USD)",
   "entrydate": "2026-02-01",
   "format": [{
     "code": "1.1.2",
@@ -39745,9 +40398,15 @@
   },
   "awards": ["BPL Staff Picks: Best Reads of the Year"],
   "genre": ["Nonfiction",
-  "Politics, Government, Law and Public Policy"],
+  "General Nonfiction",
+  "Politics, Government, Law and Public Policy",
+  "Technology",
+  "Recent Nonfiction"],
   "genre_id": ["20275895",
-  "3805"],
+  "1247",
+  "3805",
+  "17963",
+  "8278606"],
   "source": "amazon uk books",
   "workcode": "34787034",
   "entrydate": "2026-02-07",
@@ -39797,6 +40456,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "12658164",
+  "price": "$57 (USD)",
   "entrydate": "2026-02-07",
   "format": [{
     "code": "1.1.2",
@@ -39912,6 +40572,7 @@
   "Handbooks, manuals, etc"]],
   "source": "amazon.co.uk",
   "workcode": "427671",
+  "price": "$19.95 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.1",
@@ -39967,6 +40628,7 @@
   },
   "source": "Amazon.com",
   "workcode": "326823",
+  "price": "$18.95 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.1",
@@ -40013,6 +40675,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "8342194",
+  "price": "$24.95 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.1",
@@ -40083,6 +40746,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "91225",
+  "price": "$18.95 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.2",
@@ -40146,6 +40810,7 @@
   "1457"],
   "source": "amazon.co.uk",
   "workcode": "1575447",
+  "price": "$18.95 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.2",
@@ -40210,6 +40875,7 @@
   "1599"],
   "source": "amazon.co.uk",
   "workcode": "15000922",
+  "price": "$35 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.2",
@@ -40257,6 +40923,7 @@
   },
   "source": "amazon.co.uk",
   "workcode": "15466627",
+  "price": "$29 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.1",
@@ -40313,8 +40980,14 @@
   "The Economist Best Books",
   "Time Magazine's Must Read Books of the Year"],
   "genre": ["Nonfiction",
+  "Business",
+  "Economics",
+  "General Nonfiction",
   "History"],
   "genre_id": ["20275895",
+  "20245",
+  "7973",
+  "1247",
   "1599"],
   "source": "amazon uk books",
   "workcode": "34477842",
@@ -40443,6 +41116,7 @@
   },
   "source": "Amazon.com",
   "workcode": "306658",
+  "price": "$35 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.2",
@@ -40553,6 +41227,7 @@
   },
   "source": "amazon uk books",
   "workcode": "22689146",
+  "price": "$35 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.2",
@@ -40645,6 +41320,7 @@
   },
   "source": "amazon uk books",
   "workcode": "22498033",
+  "price": "$22.95 (USD)",
   "entrydate": "2026-02-08",
   "format": [{
     "code": "1.1.2",
@@ -40694,7 +41370,1043 @@
   },
   "source": "amazon.com books",
   "workcode": "31240646",
+  "price": "$32 (USD)",
   "entrydate": "2026-02-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"307254168": {
+  "books_id": "307254168",
+  "title": "The Benedict Option: A Strategy for Christians in a Post-Christian Nation",
+  "sortcharacter": "5",
+  "public": "true",
+  "primaryauthor": "Dreher, Rod",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Dreher, Rod",
+    "fl": "Rod Dreher",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0735213305",
+  "isbn": {
+    "0": "0735213305",
+    "2": "9780735213302"
+  },
+  "asin": "0735213305",
+  "ean": ["0735213305"],
+  "publication": "Penguin Publishing Group (2018), Edition: Reprint, 304 pages",
+  "date": "2018",
+  "summary": "The Benedict Option: A Strategy for Christians in a Post-Christian Nation by Rod Dreher (2018)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["261.0973"],
+    "wording": ["Biography And History",
+    "Christian organization, social work & worship",
+    "North America",
+    "Religion",
+    "Social theology and interreligious relations and attitudes",
+    "United States"]
+  },
+  "lcc": {
+    "code": "BR526 .D735"
+  },
+  "originaltitle": "La opci\u00f3n benedictina: Una estrategia para los cristianos en una sociedad postcristiana",
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "Religion & Spirituality"],
+  "genre_id": ["20275895",
+  "1247",
+  "1944"],
+  "source": "amazon uk books",
+  "workcode": "18279940",
+  "price": "$17 (USD)",
+  "entrydate": "2026-02-18",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"307254304": {
+  "books_id": "307254304",
+  "title": "How to Make a Few Billion Dollars",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Jacobs, Brad",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Jacobs, Brad",
+    "fl": "Brad Jacobs",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "asin": "B0CHTQP25T",
+  "ean": ["9798886451740"],
+  "publication": "Greenleaf Book Group Press (2024), 272 pages",
+  "date": "2024",
+  "summary": "How to Make a Few Billion Dollars by Brad Jacobs (2024)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["338.04"],
+    "wording": ["Economics",
+    "Entrepreneurship",
+    "Production",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "HF5386 .J3122"
+  },
+  "source": "amazon.com books",
+  "workcode": "31551461",
+  "entrydate": "2026-02-18",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "272 p.; 9 inches",
+  "height": "9 inches",
+  "thickness": "6 inches",
+  "length": "1 inch",
+  "dimensions": "9 x 1 x 6 inches",
+  "weight": "1.54984970186 pounds",
+  "pages": "272 "
+},
+"308472233": {
+  "books_id": "308472233",
+  "title": "Campbell Biology: United States Edition",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Reece, Jane B.",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Cain, Michael L.|Jackson, Robert B.|Urry, Lisa A.|Wasserman, Steven A.|Minorsky, Peter V.|Wasserman, Steven B",
+  "secondaryauthorroles": "Author|Author|Author|Author|Author|Author",
+  "authors": [{
+    "lf": "Reece, Jane B.",
+    "fl": "Jane B. Reece",
+    "role": "Author"
+  },
+  {
+    "lf": "Cain, Michael L.",
+    "fl": "Michael L. Cain",
+    "role": "Author"
+  },
+  {
+    "lf": "Jackson, Robert B.",
+    "fl": "Robert B. Jackson",
+    "role": "Author"
+  },
+  {
+    "lf": "Urry, Lisa A.",
+    "fl": "Lisa A. Urry",
+    "role": "Author"
+  },
+  {
+    "lf": "Wasserman, Steven A.",
+    "fl": "Steven A. Wasserman",
+    "role": "Author"
+  },
+  {
+    "lf": "Minorsky, Peter V.",
+    "fl": "Peter V. Minorsky",
+    "role": "Author"
+  },
+  {
+    "lf": "Wasserman, Steven B",
+    "fl": "Steven B Wasserman",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0321558235",
+  "isbn": {
+    "0": "0321558235",
+    "2": "9780321558237"
+  },
+  "asin": "0321558235",
+  "ean": ["0321558235"],
+  "publication": "Pearson (2010), Edition: 9, 1464 pages",
+  "date": "2010",
+  "summary": "Campbell Biology: United States Edition by Jane B. Reece (2010)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["570"],
+    "wording": ["Biology",
+    "Biology",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QH308.2 .C34"
+  },
+  "source": "amazon uk books",
+  "workcode": "10937179",
+  "price": "$251.93 (USD)",
+  "entrydate": "2026-03-05",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "height": "11 inches",
+  "thickness": "2.2 inches",
+  "length": "9.2 inches",
+  "dimensions": "11 x 9.2 x 2.2 inches",
+  "weight": "6.85 pounds",
+  "pages": "1464 "
+},
+"308615396": {
+  "books_id": "308615396",
+  "title": "Life: The Science of Biology",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Hillis, David",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Heller, H. Craig|Sadava, David|Hall, Dave|Hacker, Sally D.|Laskowski, Marta",
+  "secondaryauthorroles": "Author|Author|Author|Author|Author",
+  "authors": [{
+    "lf": "Hillis, David",
+    "fl": "David Hillis",
+    "role": "Author"
+  },
+  {
+    "lf": "Heller, H. Craig",
+    "fl": "H. Craig Heller",
+    "role": "Author"
+  },
+  {
+    "lf": "Sadava, David",
+    "fl": "David Sadava",
+    "role": "Author"
+  },
+  {
+    "lf": "Hall, Dave",
+    "fl": "Dave Hall",
+    "role": "Author"
+  },
+  {
+    "lf": "Hacker, Sally D.",
+    "fl": "Sally D. Hacker",
+    "role": "Author"
+  },
+  {
+    "lf": "Laskowski, Marta",
+    "fl": "Marta Laskowski",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "131931578X",
+  "isbn": {
+    "0": "131931578X",
+    "2": "9781319315788"
+  },
+  "asin": "131931578X",
+  "ean": ["131931578X"],
+  "publication": "WH Freeman (2020), Edition: 12nd ed. 2020, 1268 pages",
+  "date": "2020",
+  "summary": "Life: The Science of Biology by David Hillis (2020)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["570"],
+    "wording": ["Biology",
+    "Biology",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QH308.2 .L565"
+  },
+  "source": "amazon uk books",
+  "workcode": "25402393",
+  "entrydate": "2026-03-06",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"308659437": {
+  "books_id": "308659437",
+  "title": "Chemistry",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Zumdahl, Steven S.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Zumdahl, Steven S.",
+    "fl": "Steven S. Zumdahl",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "061852844X",
+  "isbn": {
+    "0": "061852844X",
+    "2": "9780618528448"
+  },
+  "asin": "061852844X",
+  "ean": ["061852844X"],
+  "publication": "Houghton Mifflin (2006), Edition: 7th Revised edition, 1232 pages",
+  "date": "2006",
+  "summary": "Chemistry by Steven S. Zumdahl (2006)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["540"],
+    "wording": ["Chemistry",
+    "Chemistry and allied sciences",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QD31.2 .Z86"
+  },
+  "subject": {
+    "0": ["Chemistry"],
+    "2": ["chemistry"]
+  },
+  "source": "amazon.co.uk",
+  "workcode": "50314",
+  "price": "$378.95 (USD)",
+  "entrydate": "2026-03-07",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "1168 p.; 10.63 inches",
+  "height": "10.63 inches",
+  "thickness": "1.65 inches",
+  "length": "8.5 inches",
+  "dimensions": "10.63 x 8.5 x 1.65  inches",
+  "weight": "5.47 pounds",
+  "pages": "1168 "
+},
+"308684469": {
+  "books_id": "308684469",
+  "title": "Chemistry: The Central Science: United States Edition",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Brown, Theodore E.",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "LeMay, H. Eugene|Bursten, Bruce E.|Burdge, Julia R.",
+  "secondaryauthorroles": "Author|Author|Author",
+  "authors": [{
+    "lf": "Brown, Theodore E.",
+    "fl": "Theodore E. Brown",
+    "role": "Author"
+  },
+  {
+    "lf": "LeMay, H. Eugene",
+    "fl": "H. Eugene LeMay",
+    "role": "Author"
+  },
+  {
+    "lf": "Bursten, Bruce E.",
+    "fl": "Bruce E. Bursten",
+    "role": "Author"
+  },
+  {
+    "lf": "Burdge, Julia R.",
+    "fl": "Julia R. Burdge",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0130669970",
+  "isbn": {
+    "0": "0130669970",
+    "2": "9780130669971"
+  },
+  "asin": "0130669970",
+  "ean": ["0130669970"],
+  "publication": "Pearson (2002), Edition: 9, 1152 pages",
+  "date": "2002",
+  "summary": "Chemistry: The Central Science: United States Edition by Theodore E. Brown (2002)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["540"],
+    "wording": ["Chemistry",
+    "Chemistry and allied sciences",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QD31.3 .C43145"
+  },
+  "subject": {
+    "0": ["Chemistry"],
+    "2": ["Chemistry",
+    "Textbooks"],
+    "4": ["chemistry"]
+  },
+  "source": "amazon uk books",
+  "workcode": "57192",
+  "price": "$166 (USD)",
+  "entrydate": "2026-03-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "height": "10.5 inches",
+  "thickness": "1.3 inches",
+  "length": "8.6 inches",
+  "dimensions": "10.5 x 8.6 x 1.3 inches",
+  "weight": "5.2 pounds",
+  "pages": "1152 "
+},
+"308734135": {
+  "books_id": "308734135",
+  "title": "Conceptual Physics",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Hewitt, Paul G.",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Hewitt, Paul G.",
+    "fl": "Paul G. Hewitt",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0321009711",
+  "isbn": {
+    "0": "0321009711",
+    "2": "9780321009715"
+  },
+  "asin": "0321009711",
+  "ean": ["0321009711"],
+  "publication": "Addison Wesley (1997), Edition: 8, 681 pages",
+  "date": "1997",
+  "summary": "Conceptual Physics by Paul G. Hewitt (1997)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["530"],
+    "wording": ["Natural sciences & mathematics",
+    "Physics",
+    "Physics"]
+  },
+  "lcc": {
+    "code": "QC23 .H56"
+  },
+  "subject": {
+    "0": ["Physical sciences"],
+    "1": ["Physics"],
+    "3": ["physics"]
+  },
+  "originaltitle": "Conceptual Physical Science",
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "Science & Nature"],
+  "genre_id": ["20275895",
+  "1247",
+  "1457"],
+  "source": "amazon.co.uk",
+  "workcode": "563967",
+  "price": "$96 (USD)",
+  "entrydate": "2026-03-08",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1",
+  "physical_description": "681 p.; 10.1 inches",
+  "height": "10.1 inches",
+  "thickness": "1.4 inches",
+  "length": "7.9 inches",
+  "dimensions": "10.1 x 7.9 x 1.4  inches",
+  "weight": "2.95 pounds",
+  "pages": "681 "
+},
+"308740163": {
+  "books_id": "308740163",
+  "title": "Fundamentals of Physics, , Chapters 1-12 (Part 1)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Halliday, David",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Halliday, David",
+    "fl": "David Halliday",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0471145610",
+  "isbn": {
+    "0": "0471145610",
+    "2": "9780471145615"
+  },
+  "asin": "0471145610",
+  "ean": ["0471145610"],
+  "publication": "Wiley (1996), Edition: Part 1, 384 pages",
+  "date": "1996",
+  "summary": "Fundamentals of Physics, , Chapters 1-12 (Part 1) by David Halliday (1996)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["530"],
+    "wording": ["Natural sciences & mathematics",
+    "Physics",
+    "Physics"]
+  },
+  "lcc": {
+    "code": "QC21.3 .H35"
+  },
+  "source": "Amazon.co.uk",
+  "workcode": "11304232",
+  "price": "$32.95 (USD)",
+  "entrydate": "2026-03-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "384 p.; 9.9 inches",
+  "height": "9.9 inches",
+  "thickness": "0.5 inches",
+  "length": "8 inches",
+  "dimensions": "9.9 x 8 x 0.5  inches",
+  "weight": "1.55 pounds",
+  "pages": "384 "
+},
+"308740376": {
+  "books_id": "308740376",
+  "title": "Fundamentals of Physics, Part 2, Chapters 13-21 (Pt.2)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Halliday, David",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Halliday, David",
+    "fl": "David Halliday",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0471148547",
+  "isbn": {
+    "0": "0471148547",
+    "2": "9780471148548"
+  },
+  "asin": "0471148547",
+  "ean": ["0471148547"],
+  "publication": "Wiley (1996), Edition: 5, 328 pages",
+  "date": "1996",
+  "summary": "Fundamentals of Physics, Part 2, Chapters 13-21 (Pt.2) by David Halliday (1996)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["530"],
+    "wording": ["Natural sciences & mathematics",
+    "Physics",
+    "Physics"]
+  },
+  "lcc": {
+    "code": "QC21.3 .H35"
+  },
+  "source": "Amazon.co.uk",
+  "workcode": "707448",
+  "price": "$29.95 (USD)",
+  "entrydate": "2026-03-08",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"308756830": {
+  "books_id": "308756830",
+  "title": "Foundations of Earth Science (Masteringgeology)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Lutgens, Frederick",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Tasa, Dennis|Tarbuck, Edward",
+  "secondaryauthorroles": "Author|Author",
+  "authors": [{
+    "lf": "Lutgens, Frederick",
+    "fl": "Frederick Lutgens",
+    "role": "Author"
+  },
+  {
+    "lf": "Tasa, Dennis",
+    "fl": "Dennis Tasa",
+    "role": "Author"
+  },
+  {
+    "lf": "Tarbuck, Edward",
+    "fl": "Edward Tarbuck",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "9780134184814",
+  "isbn": ["9780134184814",
+  "0134184815"],
+  "asin": "0134184815",
+  "ean": ["0134184815"],
+  "publication": "Pearson (2016), Edition: 8, 576 pages",
+  "date": "2016",
+  "summary": "Foundations of Earth Science (Masteringgeology) by Frederick Lutgens (2016)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["550"],
+    "wording": ["Earth sciences",
+    "Earth sciences; geology",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QE28 .L96"
+  },
+  "source": "amazon uk books",
+  "workcode": "1922437",
+  "price": "$186.65 (USD)",
+  "entrydate": "2026-03-09",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"308886001": {
+  "books_id": "308886001",
+  "title": "Astronomy Today Volume 1: The Solar System (7th Edition)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Chaisson, Eric",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Chaisson, Eric",
+    "fl": "Eric Chaisson",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0321718623",
+  "isbn": {
+    "0": "0321718623",
+    "2": "9780321718624"
+  },
+  "asin": "0321718623",
+  "ean": ["0321718623"],
+  "publication": "Addison-Wesley (2010), Edition: 7, 480 pages",
+  "date": "2010",
+  "summary": "Astronomy Today Volume 1: The Solar System (7th Edition) by Eric Chaisson (2010)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["520"],
+    "wording": ["Astronomy",
+    "Astronomy and allied sciences",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QB43.3 .C48"
+  },
+  "series": ["Astronomy Today [Chiasson and McMillan]"],
+  "genre": ["Nonfiction",
+  "Science & Nature"],
+  "genre_id": ["20275895",
+  "1457"],
+  "source": "amazon.com",
+  "workcode": "1014302",
+  "price": "$103.6 (USD)",
+  "entrydate": "2026-03-11",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "480 p.; 10.6 inches",
+  "height": "10.6 inches",
+  "thickness": "0.8 inches",
+  "length": "8.9 inches",
+  "dimensions": "10.6 x 8.9 x 0.8  inches",
+  "weight": "2.1 pounds",
+  "pages": "480 "
+},
+"308886013": {
+  "books_id": "308886013",
+  "title": "Astronomy Today, Volume 2: Stars and Galaxies (5th Edition)",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Chaisson, Eric",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Chaisson, Eric",
+    "fl": "Eric Chaisson",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0131176846",
+  "isbn": {
+    "0": "0131176846",
+    "2": "9780131176843"
+  },
+  "asin": "0131176846",
+  "ean": ["0131176846"],
+  "publication": "Benjamin Cummings (2004), Edition: 5, 592 pages",
+  "date": "2004",
+  "summary": "Astronomy Today, Volume 2: Stars and Galaxies (5th Edition) by Eric Chaisson (2004)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["520"],
+    "wording": ["Astronomy",
+    "Astronomy and allied sciences",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QB43.3 .C48"
+  },
+  "series": ["Astronomy Today [Chiasson and McMillan]"],
+  "genre": ["Nonfiction",
+  "Science & Nature"],
+  "genre_id": ["20275895",
+  "1457"],
+  "source": "Amazon.com",
+  "workcode": "1366819",
+  "price": "$70 (USD)",
+  "entrydate": "2026-03-11",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1"
+},
+"308886037": {
+  "books_id": "308886037",
+  "title": "Foundations of Astronomy",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Seeds, Michael",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Backman, Dana|Wegryn, Eric",
+  "secondaryauthorroles": "Author|Author",
+  "authors": [{
+    "lf": "Seeds, Michael",
+    "fl": "Michael Seeds",
+    "role": "Author"
+  },
+  {
+    "lf": "Backman, Dana",
+    "fl": "Dana Backman",
+    "role": "Author"
+  },
+  {
+    "lf": "Wegryn, Eric",
+    "fl": "Eric Wegryn",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "821419332X",
+  "isbn": {
+    "0": "821419332X",
+    "2": "9788214193329"
+  },
+  "asin": "821419332X",
+  "ean": ["9798214193328"],
+  "publication": "Cengage Learning (2025), Edition: 15, 688 pages",
+  "date": "2025",
+  "summary": "Foundations of Astronomy by Michael Seeds (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["520"],
+    "wording": ["Astronomy",
+    "Astronomy and allied sciences",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QB43.2 .S43"
+  },
+  "subject": [["Astronomy"],
+  ["Astronomy",
+  "Textbooks"]],
+  "source": "amazon.com books",
+  "workcode": "703079",
+  "entrydate": "2026-03-11",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "688 p.; 10.76 inches",
+  "height": "10.76 inches",
+  "thickness": "1.19 inches",
+  "length": "8.47 inches",
+  "dimensions": "10.76 x 8.47 x 1.19 inches",
+  "weight": "3.41936968362 pounds",
+  "pages": "688 "
+},
+"308887099": {
+  "books_id": "308887099",
+  "title": "Earth: Portrait of a Planet",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Werner, John",
+  "primaryauthorrole": "Author",
+  "secondaryauthor": "Hincks, Gary",
+  "secondaryauthorroles": "Illustrator",
+  "authors": [{
+    "lf": "Werner, John",
+    "fl": "John Werner",
+    "role": "Author"
+  },
+  {
+    "lf": "Hincks, Gary",
+    "fl": "Gary Hincks",
+    "role": "Illustrator"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0393974235",
+  "isbn": {
+    "0": "0393974235",
+    "2": "9780393974232"
+  },
+  "asin": "0393974235",
+  "ean": ["0393974235"],
+  "publication": "WW Norton & Co (2002), Edition: Pap/Cdr, 735 pages",
+  "date": "2002",
+  "summary": "Earth: Portrait of a Planet by John Werner (2002)",
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["550"],
+    "wording": ["Earth sciences",
+    "Earth sciences; geology",
+    "Natural sciences & mathematics"]
+  },
+  "lcc": {
+    "code": "QE26.3 .M36"
+  },
+  "source": "amazon.co.uk",
+  "workcode": "1801832",
+  "entrydate": "2026-03-11",
+  "format": [{
+    "code": "1.1.1",
+    "text": "Paperback"
+  }],
+  "copies": "1",
+  "physical_description": "735 p.; 10.72 inches",
+  "height": "10.72 inches",
+  "thickness": "1.07 inches",
+  "length": "8.92 inches",
+  "dimensions": "10.72 x 8.92 x 1.07  inches",
+  "weight": "3.99 pounds",
+  "pages": "735 "
+},
+"310613366": {
+  "books_id": "310613366",
+  "title": "Iran: A Modern History",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Amanat, Abbas",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Amanat, Abbas",
+    "fl": "Abbas Amanat",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0300112548",
+  "isbn": {
+    "0": "0300112548",
+    "2": "9780300112542"
+  },
+  "asin": "0300112548",
+  "ean": ["0300112548"],
+  "publication": "Yale University Press (2017), 1000 pages",
+  "date": "2017",
+  "summary": "Iran: A Modern History by Abbas Amanat (2017)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["955.03"],
+    "wording": ["History & geography",
+    "History of Asia",
+    "Iran"]
+  },
+  "lcc": {
+    "code": "DS272 .A435"
+  },
+  "awards": ["CounterPunch Best Book"],
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "History"],
+  "genre_id": ["20275895",
+  "1247",
+  "1599"],
+  "source": "amazon uk books",
+  "workcode": "19816888",
+  "price": "$40 (USD)",
+  "entrydate": "2026-04-03",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"310613513": {
+  "books_id": "310613513",
+  "title": "Captives and Companions: A History of Slavery and the Slave Trade in the Islamic World",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "Marozzi, Justin",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "Marozzi, Justin",
+    "fl": "Justin Marozzi",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0241522153",
+  "isbn": {
+    "0": "0241522153",
+    "2": "9780241522158"
+  },
+  "asin": "0241522153",
+  "ean": ["0241522153"],
+  "publication": "Allen Lane (2025), Edition: 1, 560 pages",
+  "date": "2025",
+  "summary": "Captives and Companions: A History of Slavery and the Slave Trade in the Islamic World by Justin Marozzi (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["306.362091767"],
+    "wording": ["Biography And History",
+    "Biography And History",
+    "Culture and institutions",
+    "Economic institutions",
+    "Slavery",
+    "Social sciences",
+    "Social sciences, sociology & anthropology",
+    "Systems of labor"]
+  },
+  "lcc": {
+    "code": "HT919 .M37"
+  },
+  "awards": ["Baillie Gifford Prize for Non-Fiction",
+  "Prospect\u2019s Books of the Year",
+  "The Times (London) and Sunday Times Best Books of the Year"],
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "History",
+  "Religion & Spirituality"],
+  "genre_id": ["20275895",
+  "1247",
+  "1599",
+  "1944"],
+  "source": "amazon uk books",
+  "workcode": "34441075",
+  "entrydate": "2026-04-03",
+  "format": [{
+    "code": "1.1.2",
+    "text": "Hardcover"
+  }],
+  "copies": "1"
+},
+"310613651": {
+  "books_id": "310613651",
+  "title": "Autocrats vs. Democrats: China, Russia, America, and the New Global Disorder",
+  "sortcharacter": "1",
+  "public": "true",
+  "primaryauthor": "McFaul, Michael",
+  "primaryauthorrole": "Author",
+  "authors": [{
+    "lf": "McFaul, Michael",
+    "fl": "Michael McFaul",
+    "role": "Author"
+  }],
+  "collections_idA": [1],
+  "collections": ["Your library"],
+  "originalisbn": "0358677874",
+  "isbn": {
+    "0": "0358677874",
+    "2": "9780358677871"
+  },
+  "asin": "0358677874",
+  "ean": ["0358677874"],
+  "publication": "Mariner Books (2025), 544 pages",
+  "date": "2025",
+  "summary": "Autocrats vs. Democrats: China, Russia, America, and the New Global Disorder by Michael McFaul (2025)",
+  "language": ["English"],
+  "language_codeA": ["eng"],
+  "originallanguage": ["English"],
+  "originallanguage_codeA": ["eng"],
+  "ddc": {
+    "code": ["320.905"],
+    "wording": ["21st century",
+    "By Period",
+    "Political science",
+    "Political science (Politics and government)",
+    "Political situation and conditions",
+    "Social sciences"]
+  },
+  "lcc": {
+    "code": "D863 .M44"
+  },
+  "awards": ["Of Related Interest: Recent books of interest to the foreign affairs community"],
+  "genre": ["Nonfiction",
+  "General Nonfiction",
+  "History",
+  "Politics, Government, Law and Public Policy",
+  "Recent Nonfiction"],
+  "genre_id": ["20275895",
+  "1247",
+  "1599",
+  "3805",
+  "8278606"],
+  "source": "amazon.com all media",
+  "workcode": "33998967",
+  "entrydate": "2026-04-03",
   "format": [{
     "code": "1.1.2",
     "text": "Hardcover"
