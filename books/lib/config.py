@@ -1,0 +1,3 @@
+BY_AUTHOR_DIR_NAME = "By Author"
+BY_YEAR_DIR_NAME = "By Year"
+COLLECTIONS_DIR_NAME = "Collections"
