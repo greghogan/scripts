@@ -5,11 +5,13 @@
 CONFIRM_MODE=false
 DRY_RUN=false
 SINCE_DATE=""
+OWNER_FILTER=""
 
 usage() {
-    echo "Usage: $0 [-c] [-n] <date>"
+    echo "Usage: $0 [-c] [-n] [-o <owner>] <date>"
     echo "  -c, --confirm   Interactive mode: Show dates and ask before checking."
     echo "  -n, --dry-run   Show which repos would be fetched and their size."
+    echo "  -o, --owner     Only process repos owned by this user or organization."
     echo "  <date>          Date to check for updates (e.g., '2024-01-01')"
     exit 1
 }
@@ -19,6 +21,14 @@ while [[ "$#" -gt 0 ]]; do
     case $1 in
         -c|--confirm) CONFIRM_MODE=true ;;
         -n|--dry-run) DRY_RUN=true ;;
+        -o|--owner)
+            shift
+            if [ -z "$1" ] || [[ "$1" == -* ]]; then
+                echo "Error: --owner requires a value."
+                usage
+            fi
+            OWNER_FILTER="$1"
+            ;;
         -h|--help) usage ;;
         -*) echo "Unknown option: $1"; usage ;;
         *)
@@ -90,6 +100,9 @@ fi
 
 echo "Found $REPO_COUNT repositories."
 echo "Checking for updates since: $SINCE_DATE"
+if [ -n "$OWNER_FILTER" ]; then
+    echo "Filtering to owner: $OWNER_FILTER"
+fi
 echo "------------------------------------------------"
 
 if [ "$DRY_RUN" = true ]; then
@@ -118,6 +131,11 @@ while IFS='|' read -r repo_url push_date repo_size <&3; do
     user_name=$(basename $(dirname "$clean_url") | cut -d':' -f2)
     folder_name="${user_name}_${repo_name}.git"
     archive_name="${folder_name%.git}.tar.zst"
+
+    # Skip repos that do not match the requested owner/org filter.
+    if [ -n "$OWNER_FILTER" ] && [ "$user_name" != "$OWNER_FILTER" ]; then
+        continue
+    fi
 
     # --- DATE CHECK ---
     # Normalize repo push date for comparison (2024-02-09 -> 20240209)
