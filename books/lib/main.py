@@ -37,6 +37,8 @@ def main():
     print(f"Scanning library: {root_dir}...")
     all_files = []
     for r, d, f in os.walk(root_dir):
+        d.sort()
+        f.sort()
         for file in f:
             if BY_AUTHOR_DIR_NAME in r:
                 continue

@@ -4,7 +4,13 @@ import shutil
 from collections import defaultdict
 
 from .models import LibraryNode
-from .util import get_folder_name, resolve_path_stack, get_all_files_recursive, clean_asin
+from .util import (
+    get_folder_name,
+    resolve_path_stack,
+    get_all_files_recursive,
+    clean_asin,
+    parse_ddc_num,
+)
 from .symlinks import update_author_symlinks, update_year_symlinks, update_collection_symlinks
 
 
@@ -56,22 +62,33 @@ def build_virtual_tree(files, meta_map, manual_map, ddc_tree, library_root):
     return root, map_updated
 
 
+def _child_sort_key(item):
+    """Sort child categories in stable numeric DDC order."""
+    key, child_node = item
+    ddc_number = child_node.ddc_def.get('number') if child_node.ddc_def else key
+    return (parse_ddc_num(ddc_number), str(ddc_number), str(key))
+
+
 def balance_and_execute(node, threshold, dry_run, library_root, meta_map, collection_index):
     groups = defaultdict(list)
     groups[None].extend(node.files)
 
-    for child_key, child_node in node.children.items():
+    ordered_children = sorted(node.children.items(), key=_child_sort_key)
+
+    for child_key, child_node in ordered_children:
         child_files = get_all_files_recursive(child_node)
         groups[child_key].extend(child_files)
 
     total_files = sum(len(f_list) for f_list in groups.values())
-    sorted_keys = sorted([k for k in groups.keys() if k is not None],
-                         key=lambda k: len(groups[k]), reverse=True)
 
+    # Keep the lower-numbered child categories at this node first. Once the
+    # threshold would be exceeded, the remaining (higher-numbered) children
+    # stay as subfolders. This makes the split a stable DDC-order boundary
+    # instead of one that changes whenever child file counts are reordered.
     active_subfolders = set()
     current_load = total_files
 
-    for key in sorted_keys:
+    for key, _child_node in reversed(ordered_children):
         if current_load > threshold:
             active_subfolders.add(key)
             current_load -= len(groups[key])
@@ -106,6 +123,7 @@ def balance_and_execute(node, threshold, dry_run, library_root, meta_map, collec
             update_year_symlinks(dst, library_root, meta_map)
             update_collection_symlinks(dst, library_root, collection_index)
 
-    for key in active_subfolders:
-        child_node = node.children[key]
+    for key, child_node in ordered_children:
+        if key not in active_subfolders:
+            continue
         balance_and_execute(child_node, threshold, dry_run, library_root, meta_map, collection_index)
