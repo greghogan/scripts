@@ -13,6 +13,7 @@ usage() {
     echo "  -n, --dry-run   Show which repos would be fetched and their size."
     echo "  -o, --owner     Only process repos owned by this user or organization."
     echo "  <date>          Date to check for updates (e.g., '2024-01-01')"
+    echo "  Default: personal repos, starred repos, and repos in organizations you own."
     exit 1
 }
 
@@ -83,15 +84,47 @@ echo "Fetching repository list and dates..."
 TEMPLATE_OWNED='{{range .}}{{printf "%s|%s|%.0f\n" .sshUrl .pushedAt .diskUsage}}{{end}}'
 TEMPLATE_STARRED='{{range .}}{{printf "%s|%s|%.0f\n" .ssh_url .pushed_at .size}}{{end}}'
 
-# Get Owned Repos
-OWNED=$(gh repo list --limit 5000 --json sshUrl,pushedAt,diskUsage --template "$TEMPLATE_OWNED")
+# Fetch the selected owner directly; filtering the personal list would miss org repos.
+repo_owners=()
+if [ -n "$OWNER_FILTER" ]; then
+    repo_owners+=("$OWNER_FILTER")
+else
+    if ! account_owner=$(gh api user --jq .login); then
+        echo "Error: Could not identify the authenticated GitHub account."
+        exit 1
+    fi
+    repo_owners+=("$account_owner")
+    if ! owned_orgs=$(gh api user/memberships/orgs --paginate --jq '.[] | select(.state == "active" and .role == "admin") | .organization.login'); then
+        echo "Error: Could not list organization memberships."
+        exit 1
+    fi
+    while IFS= read -r org_owner; do
+        [ -z "$org_owner" ] && continue
+        repo_owners+=("$org_owner")
+        echo "Including organization you own: $org_owner"
+    done <<< "$owned_orgs"
+fi
 
-# Get Starred Repos
-STARRED=$(gh api user/starred --paginate --template "$TEMPLATE_STARRED")
+OWNED=""
+for repo_owner in "${repo_owners[@]}"; do
+    if ! owner_data=$(gh repo list "$repo_owner" --limit 5000 --json sshUrl,pushedAt,diskUsage --template "$TEMPLATE_OWNED"); then
+        echo "Error: Could not list repositories for $repo_owner."
+        exit 1
+    fi
+    OWNED+="$owner_data"$'\n'
+done
+
+STARRED=""
+if [ -z "$OWNER_FILTER" ]; then
+    if ! STARRED=$(gh api user/starred --paginate --template "$TEMPLATE_STARRED"); then
+        echo "Error: Could not list starred repositories."
+        exit 1
+    fi
+fi
 
 # Combine, Sort, Unique, and Remove Empty Lines
-ALL_DATA=$(echo -e "$OWNED\n$STARRED" | sort -u | grep -v "^|")
-REPO_COUNT=$(echo "$ALL_DATA" | wc -l | xargs)
+ALL_DATA=$(printf '%s\n%s\n' "$OWNED" "$STARRED" | sort -u | grep -v -e '^$' -e '^|')
+REPO_COUNT=$(printf '%s\n' "$ALL_DATA" | grep -c .)
 
 if [ "$REPO_COUNT" -eq 0 ]; then
     echo "No repositories found."
